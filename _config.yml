@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael C. Fontaine / Eco-Evo Genomics"
+title                    : "Michael C. Fontaine Lab"
 title_separator          : "-"
 name                     : &name "Michael C. Fontaine"
 description              : &description "CNRS Researcher"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Michael Fontaine"
   avatar           : #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ecological & Evolutionary Genonics"
   location         : "Montpellier, France"
   employer         : "CNRS"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rvFE0t4AAAAJ&hl=en"
-  email            :
+  email            : "michael.fontaine[at]cnrs.fr"
   researchgate     :  "https://www.researchgate.net/profile/Michael_Fontaine2"
   uri              :
   bitbucket        :
