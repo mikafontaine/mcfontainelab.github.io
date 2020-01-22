@@ -13,8 +13,5 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Data and Software"
+  - title: "Data/Software"
     url: /data-sotfware/
