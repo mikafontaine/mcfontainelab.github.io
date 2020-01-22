@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Fontaine (CRCN-CNRS)"
+  name             : "Michael Fontaine (crcn - cnrs)"
   avatar           : "porpoise_genomics.png"
   bio              : "Ecological & Evolutionary Genomics"
   location         : "Montpellier, France"
-  employer         : "CNRS-MIVEGEC (U. Monptllier, CNRS, IRD)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "CNRS / MIVEGEC"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rvFE0t4AAAAJ&hl=en"
   email            : "michael.fontaine[at]cnrs.fr"
   researchgate     :  "https://www.researchgate.net/profile/Michael_Fontaine2"
