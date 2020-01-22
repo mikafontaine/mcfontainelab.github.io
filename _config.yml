@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael C. Fontaine Lab"
+title                    : "Fontaine Lab - CNRS MIVEGEC"
 title_separator          : "-"
 name                     : &name "Michael C. Fontaine"
 description              : &description "CNRS Researcher"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michael Fontaine"
   avatar           : #"profile.png"
-  bio              : "Ecological & Evolutionary Genonics"
+  bio              : "Ecological & Evolutionary Genonics | Phylogenomics | Population genomics"
   location         : "Montpellier, France"
   employer         : "CNRS"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
