@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-=======
-
 I am interested in how natural populations evolve and adapt at the genomic level. I am particularly interested in the process of adaptation and speciation, through which clusters of individual genotypes become distinct and persist over time. This is the fundamental process that underlies the evolution and diversification of life.
 
 How, when, and why did distinct populations or species split? What are the evolutionary footprints left in their genomes? What is the role of natural selection in shaping the diversity of natural populations and species? When sexual species hybridize and share genetic material, why don't they eventually collapse into a single species? What are the consequences of the exchanges of genetic material between species, and how often is this process beneficial? These are some of the questions I work on.
