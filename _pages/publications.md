@@ -5,16 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Preprints**
+*Preprints*
 =========
-Worldwide invasion routes of the grapevine downy mildew pathogen.
+- Worldwide invasion routes of the grapevine downy mildew pathogen.
 Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
 
-The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors Anopheles gambiaeand Anopheles coluzzii.
+- The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors Anopheles gambiae and Anopheles coluzzii.
 Clarkson CS, Miles A, Miles, Harding NJ, Weetman D, Kwiatkowski D, Donnelly M, The Anopheles gambiae 1000 Genomes Consortium (including Fontaine MC). 2018. (As member of the consortium)..
 BiorXiv preprint 2018: https://doi.org/10.1101/323980.
 
-**2019**
+*2019*
 =========
 54. Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective
 Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, Fontaine MC.
