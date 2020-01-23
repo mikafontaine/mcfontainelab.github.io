@@ -10,7 +10,7 @@ author_profile: true
 - Worldwide invasion routes of the grapevine downy mildew pathogen.
 Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
 
-- The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors *Anopheles gambiae* and *Anopheles coluzzii*.
+- [The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors *Anopheles gambiae* and *Anopheles coluzzii*](https://doi.org/10.1101/323980).
 Clarkson CS, Miles A, Miles, Harding NJ, Weetman D, Kwiatkowski D, Donnelly M, The Anopheles gambiae 1000 Genomes Consortium (including Fontaine MC). 2018. (As member of the consortium).
 BiorXiv preprint 2018: [https://doi.org/10.1101/323980](https://doi.org/10.1101/323980).
 
