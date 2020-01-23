@@ -16,16 +16,16 @@ BiorXiv preprint 2018: [https://doi.org/10.1101/323980](https://doi.org/10.1101/
 
 ## *2019*
 
-54. Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective
+54. [Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective](https://www.biorxiv.org/content/10.1101/851469v1)
 Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, Fontaine MC.
-Preprint on BiorXiv doi: TBA
+Preprint on BiorXiv doi: [https://doi.org/10.1101/851469](doi: https://doi.org/10.1101/851469)
 
-53. Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*
+53. [Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)
 Bergey CM, Lukindu M, Wiltshire RM, Fontaine MC, Kayondo J, Besansky NJ
 Evolutionary Applications 2019
-Doi: https://doi.org/10.1111/eva.12878
+Doi: [https://doi.org/10.1111/eva.12878](https://doi.org/10.1111/eva.12878)
 
-52. Genetic homogeneity in face of morphological heterogeneity in the harbor porpoises from the Black Sea and adjacent waters.
+52. [Genetic homogeneity in face of morphological heterogeneity in the harbor porpoises from the Black Sea and adjacent waters](https://www.nature.com/articles/s41437-019-0284-1)
 Chehida YB, Thumloup J, Vishnyakova K, Gol’din P, Fontaine MC
 Heredity 2019 : In press
 Preprint on Biorxiv, doi: http://dx.doi.org/10.1101/634329.
