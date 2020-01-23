@@ -10,7 +10,7 @@ author_profile: true
 - Worldwide invasion routes of the grapevine downy mildew pathogen.
 Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
 
-- The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors Anopheles gambiae and Anopheles coluzzii.
+- The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors *Anopheles gambiae* and *Anopheles coluzzii*.
 Clarkson CS, Miles A, Miles, Harding NJ, Weetman D, Kwiatkowski D, Donnelly M, The Anopheles gambiae 1000 Genomes Consortium (including Fontaine MC). 2018. (As member of the consortium)..
 BiorXiv preprint 2018: https://doi.org/10.1101/323980.
 
@@ -20,7 +20,7 @@ BiorXiv preprint 2018: https://doi.org/10.1101/323980.
 Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, Fontaine MC.
 Preprint on BiorXiv doi: TBA
 
-53. Assessing connectivity despite high diversity in island populations of the malaria mosquito Anopheles gambiae
+53. Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*
 Bergey CM, Lukindu M, Wiltshire RM, Fontaine MC, Kayondo J, Besansky NJ
 Evolutionary Applications 2019
 Doi: https://doi.org/10.1111/eva.12878
@@ -38,7 +38,7 @@ Lucas ER, Miles A, Harding NJ, Clarkson CS, Lawniczak MKN, Kwiatkowski DP, Weetm
 Genome Research 2019, 29:1250–1261.
 Doi: https://doi.org/10.1101/gr.245795.118
 
-49. Population genetics and connectivity in the apex predator Carcharhinus leucas.
+49. Population genetics and connectivity in the apex predator *Carcharhinus leucas*.
 Pirog A, Ravigné V, Fontaine MC, Rieux A, Gilabert A, Cliff G, Clua E, Daly R, Heithaus MR, Kiszka JJ, Matich P, Nevill JEG, Smoothey AF, Temple AJ, Jequemet S, Magalon H.
 Ecology and Evolution 2019.
 Doi: https://doi.org/10.1002/ece3.5597.
@@ -63,10 +63,10 @@ Chen M.\*, Fontaine M. C.\*, Chehida Y. B.\*, Zheng J., Mei Z., Hao Y., Wang K.,
 45. A genomic perspective is needed for the re-evaluation of species boundaries, evolutionary trajectories and conservation strategies for the Galapagos giant tortoises.
 Fontaine MC, 2017 PCI Evol Biol. 100031.(https://doi.org/10.24072/pci.evolbiol.100031).
 
-44. Demographic history of Armillaria ostoyae population in a managed pine forest in southwestern France.
+44. Demographic history of *Armillaria ostoyae* population in a managed pine forest in southwestern France.
 Labbé F., Fontaine M. C., Robin C., Dutech C. Heredity, 119: 402–410. (https://doi.org/10.1038/hdy.2017.58).
 
-43. Natural diversity of the malaria vector Anopheles gambiae.
+43. Natural diversity of the malaria vector *Anopheles gambiae*.
 Miles A., Harding N. J., Botta G., Clarkson C., Antão T., Kozak K., Schrider D., Kern A., Redmond S., Sharakhov I., Pearson R., Bergey C., Fontaine M. C., Troco A., Diabaté A., Costantini C., Rohatgi K., Elissa N., Coulibaly B., Dinis J., Midega J., Mbogo C., Mawejje H., Stalker J., Rockett K., Drury E., Mead D., Jeffreys A., Hubbart C., Rowlands K., Isaacs A., Jyothi D., Malangone C., Vauterin P., Jeffrey B., Wright I., Hart L., Kluczynski K., Cornelius V., MacInnis B., Henrichs C., Giacomantonio R., Ayala D., Bejon P., Besansky N., Burt A., Caputo B., Torre della A., Godfray C., Hahn M., Neafsey D. E., O’Loughlin S., Pinto J., Riehle M., Vernick K., Weetman D., Wilding C., White B., Lawniczak M., Donnelly M., Kwiatkowski D. (Pre-print Biorxiv: 096289).
 Nature, 552: 96-100.
 (https://doi.org/10.1038/nature24995)
@@ -83,16 +83,16 @@ Ryan S., Fontaine M. C., Scriber M., O’Neil S., Pfrender M. E., Hellman J. Mol
 Fontaine MC, O Tatcher, N Ray, S Piry, A Brownlow, NJ Davison, P Jepson, R Deaville,   SJ Goodman. R. Soc. open sci. 4: 160992.
 (http://dx.doi.org/10.1098/rsos.160992)
 
-39. Spatial variations in concentrations of mercury and persistent organic pollutants in coastal bottlenose dolphins, Tursiops truncatus from the Lower Florida Keys and the coastal Everglades (South Florida).
+39. Spatial variations in concentrations of mercury and persistent organic pollutants in coastal bottlenose dolphins, *Tursiops truncatus* from the Lower Florida Keys and the coastal Everglades (South Florida).
 Damseaux F., Kiszka J. J., Heithaus M. R., George S., Eppe G., Thomé J.-P., Lewis J., Hao W., Fontaine M. C., Das K. (2017) Environmental Pollution 220 (Pt A): 577-587. (link)
 [MEDIA coverage] FIU-News: Mercury contamination found in Everglades dolphins
 
 ## *2016*
 
-38. Harbour porpoises, Phocoena phocoena, in the Mediterranean Sea and adjacent regions: biogeographic relicts of the last glacial period
+38. Harbour porpoises, *Phocoena phocoena*, in the Mediterranean Sea and adjacent regions: biogeographic relicts of the last glacial period
 Fontaine M.C. (2016) Advances in Marine Biology 75: 333-358.(link)
 
-37. Chromosomal inversions and ecotypic differentiation in Anopheles gambiae: the perspective from whole-genome sequencing.
+37. Chromosomal inversions and ecotypic differentiation in *Anopheles gambiae*: the perspective from whole-genome sequencing.
 Love R. R., Steele A., Coulibaly M. B., Traoré S., Emrich S. J., Fontaine M. C.\*, Besansky N. J.\* (2016) Molecular Ecology, 25: 5889–5906 (link).
 \*Co-supervise this work.
 
@@ -125,16 +125,16 @@ Fontaine M. C., Roland K., Calves I., Austerlitz F., Palstra F. P., Tolley K. A.
 29. The evolution of the Anopheles 16 genomes project.
 Neafsey D., Christophides G. K., Collins F. H., Emrich S. J., Fontaine M. C., Gelbart W., Hahn M. W., Howell P. I., Kafatos F. C., Lawson D., Muskavitch M. A. T., Waterhouse R. M., Williams L. J., Besansky N. J., 2013. G3: Genes, Genomes, Genetics 3: 1191–1194. (link)
 
-28. Antennal transcriptome profiles of anopheline mosquitoes reveal human host olfactory specialization in Anopheles gambiae.
+28. Antennal transcriptome profiles of anopheline mosquitoes reveal human host olfactory specialization in *Anopheles gambiae*.
 Rinker D. C., Zhou X., Pitts R. J., AGC Consortium*, Rokas A., Zwiebel L. J., 2013. BMC Genomics 14: 749. \*As part of the AGC Consortium. (link)
 
-27. Complex speciation process in the Anopheles gambiae species complex revealed by whole genome sequencing. (Conference abstract)
+27. Complex speciation process in the *Anopheles gambiae* species complex revealed by whole genome sequencing. (Conference abstract)
 Fontaine M. C., Steele A., Emrich S. J., Smith H. A., Hahn M. W., Besansky N. J., 2013  Pathogens and Global Health 107: 428–429.
 
-26. Genetic signature of a range expansion and leap-frog event after the recent invasion of Europe by the grapevine downy mildew pathogen Plasmopara viticola.
+26. Genetic signature of a range expansion and leap-frog event after the recent invasion of Europe by the grapevine downy mildew pathogen *Plasmopara viticola*.
 Fontaine M. C., Austerlitz F., Giraud T., Labbé F., Papura D., Richard-Cervera S., Delmotte F., 2013. Molecular Ecology22: 2771–2786. (link)
 
-25. History of the invasion of the anther smut pathogen on Silene latifolia in North America.
+25. History of the invasion of the anther smut pathogen on *Silene latifolia* in North America.
 Fontaine M. C., Gladieux P., Hood M. E., Giraud T., 2013. New Phytol. 198: 946–956. (link)
 
 24. Polymorphism pattern at a miniature inverted-repeat transposable element locus downstream of the domestication gene Teosinte-branched1 in wild and domesticated pearl millet
@@ -154,7 +154,7 @@ Charpentier M.\*, Fontaine M. C.\*, Cherel E., Renoult J. P., Jenkins T., Benoit
 20. History of expansion and anthropogenic collapse in a top marine predator of the Black Sea estimated from genetic data.
 Fontaine M. C., Snirc A., Frantzis A., Koutrakis E., Öztürk B., Oztürk A. A., Austerlitz F., 2012. Proceedings of the National Academy of Sciences 109: E2569–76. (link)
 
-19. Factors shaping gene flow in red deer (Cervus elaphus) in seminatural landscapes of central Europe.
+19. Factors shaping gene flow in red deer (*Cervus elaphus*) in seminatural landscapes of central Europe.
 Niedziałkowska M., Fontaine M.C., Jędrzejewska B., 2012. Can. J. Zool. 90: 150–162. (link)
 
 18. Different biogeographic patterns of prokaryotes and microbial eukaryotes in epilithic biofilms.
@@ -165,7 +165,7 @@ Sà Pinto A., Simas Branco M., Barros Alexandrino P., Fontaine M. C., Baird S. J
 
 ## *2011*
 
-16. Chromosomal inversions, natural selection and adaptation in the malaria vector Anopheles funestus.
+16. Chromosomal inversions, natural selection and adaptation in the malaria vector *Anopheles funestus*.
 Ayala D., Fontaine M. C., Cohuet A., Fontenille D., Vitalis R., Simard F., 2011   Molecular Biology and Evolution 28: 745–758.
 
 15. Maintenance of fungal pathogen species that are specialized to different hosts: allopatric divergence and introgression through secondary contact.
@@ -177,7 +177,7 @@ Jauniaux T., Farnir F., Fontaine M. C., Kiszka J., Sarlet M., Coignoul F., 2011 
 13. Temporal isolation explains host-related genetic differentiation in a group of widespread mycoparasitic fungi.
 Kiss L., Pintye A., Kovács G. M., Jankovics T., Fontaine M. C., Harvey N., Xu X., Nicot P. C., Bardin M., Shykoff J. A., Giraud T., 2011    Molecular Ecology 20: 1492–1507.
 
-12. Cereal domestication and evolution of branching: evidence for soft selection in the Tb1 orthologue of pearl millet (Pennisetum glaucum [L.] R. Br.).
+12. Cereal domestication and evolution of branching: evidence for soft selection in the Tb1 orthologue of pearl millet (*Pennisetum glaucum* [L.] R. Br.).
 Remigereau M.-S., Lakis G., Rekima S., Leveugle M., Fontaine M. C., Langin T., Sarr A., Robert T., 2011   PLoS ONE 6: e22404.
 
 ## *2010*
@@ -187,7 +187,8 @@ Aguileta G., Lengelle J., Marthey S., Chiapello H., Rodolphe F., Gendrault A., Y
 
 10. Genetic and historic evidence for climate-driven population fragmentation in a top cetacean predator: the harbour porpoises in European water.
 Fontaine M. C., Tolley K. A., Michaux J. R., Birkun A., Ferreira M., Jauniaux T., Llavona Á., Öztürk B., Oztürk A. A., Ridoux V., Rogan E., Sequeira M., Bouquegneau J.-M., Baird S. J. E., 2010. Proceedings of the Royal Society B: Biological Sciences 277: 2829–2837.
-9. Glacial refugia in pathogens: European genetic structure of anther smut pathogens on Silene latifolia and Silene dioica.
+
+9. Glacial refugia in pathogens: European genetic structure of anther smut pathogens on *Silene latifolia* and *Silene dioica*.
 Vercken E.\*, Fontaine M. C.\*, Gladieux P., Hood M. E., Jonot O., Giraud T., 2010. PLoS Pathog 6: e1001229. \*Contributed equally.
 
 ## *2008 –> 2009*
@@ -203,20 +204,20 @@ Fontaine M. C., 2008 PhD Thesis defended the in March 2008 at the University of 
 6. Rise of oceanographic barriers in continuous populations of a cetacean: the genetic structure of harbour porpoises in Old World waters.
 Fontaine M. C., Baird S. J. E., Piry S., Ray N., Tolley K. A., Duke S., Birkun A., Ferreira M., Jauniaux T., Llavona Á., Öztürk B., A Öztürk A., Ridoux V., Rogan E., Sequeira M., Siebert U., Vikingsson G. A., Bouquegneau J.-M., Michaux J. R., 2007a. BMC Biol 5: 30.
 
-5. Long-term feeding ecology and habitat use in harbour porpoises Phocoena phocoena from Scandinavian waters inferred from trace elements and stable isotopes.
+5. Long-term feeding ecology and habitat use in harbour porpoises *Phocoena phocoena* from Scandinavian waters inferred from trace elements and stable isotopes.
 Fontaine M. C., Tolley K. A., Siebert U., Gobert S., Lepoint G., Bouquegneau J.-M., Das K., 2007b. BMC Ecol 7: 1.
 
 4. Genetic pattern of the recent recovery of European otters in southern France.
-Janssens X.\*, Fontaine M. C.\*, Michaux J. R. , Libois R., de Kermabon J., Defourny P., Baret P. V., 2007.   Ecography 31: 176–186. \*Contributed equally.
+Janssens X.\*, Fontaine M. C.\*, Michaux J. R. , Libois R., de Kermabon J., Defourny P., Baret P. V., 2007. Ecography 31: 176–186. \*Contributed equally.
 
 ## *2003 -> 2006*
 
-3. Ecological and pathological factors related to trace metal concentrations in harbour porpoises Phocoena phocoena from the North Sea and adjacent areas.
+3. Ecological and pathological factors related to trace metal concentrations in harbour porpoises *Phocoena phocoena* from the North Sea and adjacent areas.
 Das K., Siebert U., Fontaine M., Jauniaux T., Holsbeek L., Bouquegneau J. M., 2004   Mar. Ecol. Prog. Ser. 281.
 
-2. Fluorescent Multiplex Polymerase Chain Reactions (PCRs) for Rapid Genotyping of Harbour Porpoises (Phocoena phocoena) with 11 Microsatellite Loci.
+2. Fluorescent Multiplex Polymerase Chain Reactions (PCRs) for Rapid Genotyping of Harbour Porpoises (*Phocoena phocoena*) with 11 Microsatellite Loci.
 Fontaine M. C., Galan M., Bouquegneau J.-M., Michaux J. R., 2006   Aquatic mammals 32: 301–304.
 
-1. Carbon and Nitrogen Isotopic Ratios of the Seagrass Posidonia oceanica: Depth-related Variations.
+1. Carbon and Nitrogen Isotopic Ratios of the Seagrass *Posidonia oceanica*: Depth-related Variations.
 Lepoint G., Dauby P., Fontaine M., Bouquegneau J. M., Gobert S., 2003. Botanica Marina 46: 555–561.
 {: reversed="reversed"}
