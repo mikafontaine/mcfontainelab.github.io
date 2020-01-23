@@ -113,17 +113,6 @@ Fontaine M.C.\*, Pease J. B.\*., Steele A., Waterhouse R. M., Neafsey D. E., Sha
 33. Highly evolvable malaria vectors: the genomes of 16 Anopheles mosquitoes.
 Neafsey DE\*, Waterhouse RM\*, Abai MR, Aganezov SS, Alekseyev MA, […], Fontaine MC, […],  Besansky NJ. Science, vol. 347 (no. 6217). DOI: 10.1126/science.1258522 (link). \*Contributed equally.
 
-> [Introductory papers and media coverage]
-> - Clark A. G. andMesser P. W., 2015 Evolutionary genomics. Conundrum of jumbled mosquito genomes. Science 347: 27–28.
-> - Weetman D., Clarkson C. S., 2015   Evolving the world’s most dangerous animal. Trends Parasitol. In press.
->- TheScientist: Mosquito Genomes Galore. (English)
->Press release from the University of Notre Dame, IN, USA (English)
->ScienceDaily (English)
->- RUG – Groningen (in Dutch and English)
->- Deutschlandfunk: Gene erklären nicht die Vorliebe für menschliche. Joachim Budde’s interview of Nora Besansky and Dan Neafsey. (German)
-> - IRD press release (French),  ISERM–France (English),  Le Monde (French)
-2014
-
 32. Tools and Methods Derived from the Anopheline 16 Genome project
 Steele A, Fontaine MC, Martin A, Emrich SJ. (2014) bioRXiv. (NGSTools)
 
@@ -162,17 +151,10 @@ Fontaine M.C. (2012) Encyclopaedia Universalis France. Pp. 330-331. (In French).
 Alfonsi E., Hassani S., Carpentier F.-G., Le Clec’h J.-Y., Dabin W., Van Canneyt O., Fontaine M. C.\*, Jung J.-L.\*, 2012. PLoS ONE 7: e44425. \*Co-supervise this work. (link)
 
 21. Genetic structure in a dynamic baboon hybrid zone corroborates behavioural observations in a hybrid population
-
 Charpentier M.\*, Fontaine M. C.\*, Cherel E., Renoult J. P., Jenkins T., Benoit L., Barthès N., Alberts S. C., Tung J., 2012. Molecular Ecology 21: 715–731.  \*Contributed equally (link)
 
 20. History of expansion and anthropogenic collapse in a top marine predator of the Black Sea estimated from genetic data.
 Fontaine M. C., Snirc A., Frantzis A., Koutrakis E., Öztürk B., Oztürk A. A., Austerlitz F., 2012. Proceedings of the National Academy of Sciences 109: E2569–76. (link)
-
-– See our Author Summary Fontaine et al. PNAS 15099–15100, doi: 10.1073/pnas.1201258109
-
-– See the introductory letter by Rebecca L. Cann. Models with porpoises. PNAS 15078–15079 doi: 10.1073/pnas.1213189109
-
-– The CNRS Press Release (in French).
 
 19. Factors shaping gene flow in red deer (Cervus elaphus) in seminatural landscapes of central Europe.
 Niedziałkowska M., Fontaine M.C., Jędrzejewska B., 2012. Can. J. Zool. 90: 150–162. (link)
@@ -187,74 +169,57 @@ Sà Pinto A., Simas Branco M., Barros Alexandrino P., Fontaine M. C., Baird S. J
 =======
 
 16. Chromosomal inversions, natural selection and adaptation in the malaria vector Anopheles funestus.
-
 Ayala D., Fontaine M. C., Cohuet A., Fontenille D., Vitalis R., Simard F., 2011   Molecular Biology and Evolution 28: 745–758.
 
 15. Maintenance of fungal pathogen species that are specialized to different hosts: allopatric divergence and introgression through secondary contact.
-
 Gladieux P., Vercken E., Fontaine M. C., Hood M. E., Jonot O., Couloux A., Giraud T., 2011   Molecular Biology and Evolution 28: 459–471.
 
 14. Cytochrome P450 1A1 expression in cetacean skin biopsies from the Indian Ocean.
-
 Jauniaux T., Farnir F., Fontaine M. C., Kiszka J., Sarlet M., Coignoul F., 2011   Mar. Pollut. Bull. 62: 1317–1319.
 
 13. Temporal isolation explains host-related genetic differentiation in a group of widespread mycoparasitic fungi.
-
 Kiss L., Pintye A., Kovács G. M., Jankovics T., Fontaine M. C., Harvey N., Xu X., Nicot P. C., Bardin M., Shykoff J. A., Giraud T., 2011    Molecular Ecology 20: 1492–1507.
 
 12. Cereal domestication and evolution of branching: evidence for soft selection in the Tb1 orthologue of pearl millet (Pennisetum glaucum [L.] R. Br.).
-
 Remigereau M.-S., Lakis G., Rekima S., Leveugle M., Fontaine M. C., Langin T., Sarr A., Robert T., 2011   PLoS ONE 6: e22404.
 
 *2010*
 =======
 11. Finding candidate genes under positive selection in Non-model species: examples of genes involved in host specialization in pathogens.
-
 Aguileta G., Lengelle J., Marthey S., Chiapello H., Rodolphe F., Gendrault A., Yockteng R., Vercken E., Devier B., Fontaine M. C., Wincker P., Dossat C., Cruaud C., Couloux A., Giraud T., 2010. Molecular Ecology 19: 292–306.
 
 10. Genetic and historic evidence for climate-driven population fragmentation in a top cetacean predator: the harbour porpoises in European water.
-
 Fontaine M. C., Tolley K. A., Michaux J. R., Birkun A., Ferreira M., Jauniaux T., Llavona Á., Öztürk B., Oztürk A. A., Ridoux V., Rogan E., Sequeira M., Bouquegneau J.-M., Baird S. J. E., 2010. Proceedings of the Royal Society B: Biological Sciences 277: 2829–2837.
-
 9. Glacial refugia in pathogens: European genetic structure of anther smut pathogens on Silene latifolia and Silene dioica.
-
 Vercken E.\*, Fontaine M. C.\*, Gladieux P., Hood M. E., Jonot O., Giraud T., 2010. PLoS Pathog 6: e1001229. \*Contributed equally.
 
 *2008 –> 2009*
 ==============
 8. A relict bank vole lineage highlights the biogeographic history of the Pyrenean region in Europe.
-
 Deffontaine V., Ronan L., Fontaine M. C., Quéré J.-P., Renaud S., Libois R., Michaux J. R., 2009. Molecular Ecology 18: 2489–2502.
 
 7. Structure et evolution des populations de marsouins communs des eaux Palearctiques occidentales.
-
 Fontaine M. C., 2008 PhD Thesis defended the in March 2008 at the University of Liège (Belgium). (link)
 
 *2007*
 =======
 6. Rise of oceanographic barriers in continuous populations of a cetacean: the genetic structure of harbour porpoises in Old World waters.
-
 Fontaine M. C., Baird S. J. E., Piry S., Ray N., Tolley K. A., Duke S., Birkun A., Ferreira M., Jauniaux T., Llavona Á., Öztürk B., A Öztürk A., Ridoux V., Rogan E., Sequeira M., Siebert U., Vikingsson G. A., Bouquegneau J.-M., Michaux J. R., 2007a. BMC Biol 5: 30.
 
 5. Long-term feeding ecology and habitat use in harbour porpoises Phocoena phocoena from Scandinavian waters inferred from trace elements and stable isotopes.
-
 Fontaine M. C., Tolley K. A., Siebert U., Gobert S., Lepoint G., Bouquegneau J.-M., Das K., 2007b. BMC Ecol 7: 1.
 
 4. Genetic pattern of the recent recovery of European otters in southern France.
-
 Janssens X.\*, Fontaine M. C.\*, Michaux J. R. , Libois R., de Kermabon J., Defourny P., Baret P. V., 2007.   Ecography 31: 176–186. \*Contributed equally.
 
 *2003 -> 2006*
 =======
 3. Ecological and pathological factors related to trace metal concentrations in harbour porpoises Phocoena phocoena from the North Sea and adjacent areas.
-
 Das K., Siebert U., Fontaine M., Jauniaux T., Holsbeek L., Bouquegneau J. M., 2004   Mar. Ecol. Prog. Ser. 281.
 
 2. Fluorescent Multiplex Polymerase Chain Reactions (PCRs) for Rapid Genotyping of Harbour Porpoises (Phocoena phocoena) with 11 Microsatellite Loci.
-
 Fontaine M. C., Galan M., Bouquegneau J.-M., Michaux J. R., 2006   Aquatic mammals 32: 301–304.
 
 1. Carbon and Nitrogen Isotopic Ratios of the Seagrass Posidonia oceanica: Depth-related Variations.
-
 Lepoint G., Dauby P., Fontaine M., Bouquegneau J. M., Gobert S., 2003. Botanica Marina 46: 555–561.
 {: reversed="reversed"}
