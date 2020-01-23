@@ -67,7 +67,6 @@ Fontaine MC, 2017 PCI Evol Biol. 100031.(https://doi.org/10.24072/pci.evolbiol.1
 44. Demographic history of Armillaria ostoyae population in a managed pine forest in southwestern France.
 Labbé F., Fontaine M. C., Robin C., Dutech C. Heredity, 119: 402–410. (https://doi.org/10.1038/hdy.2017.58).
 
-
 43. Natural diversity of the malaria vector Anopheles gambiae.
 Miles A., Harding N. J., Botta G., Clarkson C., Antão T., Kozak K., Schrider D., Kern A., Redmond S., Sharakhov I., Pearson R., Bergey C., Fontaine M. C., Troco A., Diabaté A., Costantini C., Rohatgi K., Elissa N., Coulibaly B., Dinis J., Midega J., Mbogo C., Mawejje H., Stalker J., Rockett K., Drury E., Mead D., Jeffreys A., Hubbart C., Rowlands K., Isaacs A., Jyothi D., Malangone C., Vauterin P., Jeffrey B., Wright I., Hart L., Kluczynski K., Cornelius V., MacInnis B., Henrichs C., Giacomantonio R., Ayala D., Bejon P., Besansky N., Burt A., Caputo B., Torre della A., Godfray C., Hahn M., Neafsey D. E., O’Loughlin S., Pinto J., Riehle M., Vernick K., Weetman D., Wilding C., White B., Lawniczak M., Donnelly M., Kwiatkowski D. (Pre-print Biorxiv: 096289).
 Nature, 552: 96-100.
