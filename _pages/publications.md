@@ -108,22 +108,20 @@ Botta F., Eriksen C., Fontaine M. C., Guillot G., 2015
 Method in Ecology and Evolution 6: 1270-1277 (link, SUNDER R package).
 
 34. Extensive introgression in a malaria vector species complex revealed by phylogenomics.
-Fontaine M.C.\*, Pease J. B.\*., Steele A., Waterhouse R. M., Neafsey D. E., Sharakhov I. V., Jiang X., Hall A. B., Kakani E., Mitchell S. N., Wu Y.-C., Smith H. A., Love R. R., Lawniczak M. K. N., Slotman M. A., Emrich S. J., Hahn M. W., Besansky N. J. Science vol. 347 (no. 6217), DOI: 10.1126/science.1258524 (link).
-\*Contributed equally.
+Fontaine M.C.\*, Pease J. B.\*., Steele A., Waterhouse R. M., Neafsey D. E., Sharakhov I. V., Jiang X., Hall A. B., Kakani E., Mitchell S. N., Wu Y.-C., Smith H. A., Love R. R., Lawniczak M. K. N., Slotman M. A., Emrich S. J., Hahn M. W., Besansky N. J. Science vol. 347 (no. 6217), DOI: 10.1126/science.1258524 (link). \*Contributed equally.
 
 33. Highly evolvable malaria vectors: the genomes of 16 Anopheles mosquitoes.
-Neafsey DE\*, Waterhouse RM\*, Abai MR, Aganezov SS, Alekseyev MA, […], Fontaine MC, […],  Besansky NJ. Science, vol. 347 (no. 6217). DOI: 10.1126/science.1258522 (link).
-\*Contributed equally.
+Neafsey DE\*, Waterhouse RM\*, Abai MR, Aganezov SS, Alekseyev MA, […], Fontaine MC, […],  Besansky NJ. Science, vol. 347 (no. 6217). DOI: 10.1126/science.1258522 (link). \*Contributed equally.
 
-[Introductory papers and media coverage]
-- Clark A. G. andMesser P. W., 2015 Evolutionary genomics. Conundrum of jumbled mosquito genomes. Science 347: 27–28.
-- Weetman D., Clarkson C. S., 2015   Evolving the world’s most dangerous animal. Trends Parasitol. In press.
-- TheScientist: Mosquito Genomes Galore. (English)
-Press release from the University of Notre Dame, IN, USA (English)
-ScienceDaily (English)
-- RUG – Groningen (in Dutch and English)
-- Deutschlandfunk: Gene erklären nicht die Vorliebe für menschliche. Joachim Budde’s interview of Nora Besansky and Dan Neafsey. (German)
-- IRD press release (French),  ISERM–France (English),  Le Monde (French)
+> [Introductory papers and media coverage]
+> - Clark A. G. andMesser P. W., 2015 Evolutionary genomics. Conundrum of jumbled mosquito genomes. Science 347: 27–28.
+> - Weetman D., Clarkson C. S., 2015   Evolving the world’s most dangerous animal. Trends Parasitol. In press.
+>- TheScientist: Mosquito Genomes Galore. (English)
+>Press release from the University of Notre Dame, IN, USA (English)
+>ScienceDaily (English)
+>- RUG – Groningen (in Dutch and English)
+>- Deutschlandfunk: Gene erklären nicht die Vorliebe für menschliche. Joachim Budde’s interview of Nora Besansky and Dan Neafsey. (German)
+> - IRD press release (French),  ISERM–France (English),  Le Monde (French)
 2014
 
 32. Tools and Methods Derived from the Anopheline 16 Genome project
