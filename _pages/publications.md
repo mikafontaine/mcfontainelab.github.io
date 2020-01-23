@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 *Preprints*
 =========
 - Worldwide invasion routes of the grapevine downy mildew pathogen.
@@ -47,3 +48,4 @@ Doi: https://doi.org/10.1002/ece3.5597.
 Brinker P, Fontaine MC, Beukeboom LW, Falcao Salles J.  
 Trends in Microbiology 2019, 27: 480-88.
 Doi: https://doi.org/10.1016/j.tim.2019.02.002
+{: reversed="reversed"}
