@@ -5,17 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[//]: # ({% if author.googlescholar %} )
-[//]: # (  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> )
-[//]: # ({% endif %} )
-
-[//]: # ( {% include base_path %} )
-
-[//]: # ({% for post in site.publications reversed %} )
-[//]: # (  {% include archive-single.html %} )
-[//]: # ( {% endfor %} )
-
-2019
+**2019**
 
 54. Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective
 Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, Fontaine MC.
