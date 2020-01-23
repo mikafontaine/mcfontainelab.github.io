@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-*Preprints*
-=========
+#*Preprints*
+
 - Worldwide invasion routes of the grapevine downy mildew pathogen.
 Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
 
