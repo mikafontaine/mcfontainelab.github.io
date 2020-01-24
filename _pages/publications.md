@@ -10,10 +10,11 @@ author_profile: true
 - Worldwide invasion routes of the grapevine downy mildew pathogen.
 Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
 
-- The rise of the three-spined stickleback: eco-evolutionary consequences of a mesopredator release. (2020) Eriksson KE, Yanos C, Bourlat S, Donadi S, Fontaine MC, Hansen JP, Jakubavičiūtė E, Kiragosyan K, Maan ME, Merilä J, Austin AN, Olsson J, Sundblad G, Bergström U, Eklöf JS. *Submitted*.
+- The rise of the three-spined stickleback: eco-evolutionary consequences of a mesopredator release. (2020)\n
+Eriksson KE, Yanos C, Bourlat S, Donadi S, Fontaine MC, Hansen JP, Jakubavičiūtė E, Kiragosyan K, Maan ME, Merilä J, Austin AN, Olsson J, Sundblad G, Bergström U, Eklöf JS. *Submitted*.
 
-- [Genome variation and population structure among 1,142 mosquitoes of the African malaria vector species *Anopheles gambiae* and *Anopheles coluzzii*](http://dx.doi.org/10.1101/864314). (2019)
-Clarkson CS, Miles A, Harding NJ, Lucas ER, Battey CJ, Amaya-Romero JE, Cano J, Diabaté A, Constant E, Nwakanma DC, Jawara M, Essandoh J, Dinis J, Le Goff G, Robert V, Troco AD, Costantini C, Rohatgi KR, Elissa N, Coulibaly B, Midega J, Mbogo C, Mawejje HD, Stalker J, Rockett KA, Drury E, Mead D, Jeffreys AE, Hubbart C, Rowlands K, Isaacs AT, Jyothi D, Malangone C, Kamali M, Henrichs C, Simpson V, Ayala D, Besansky NJ, Burt A, Caputo B, Torre della A, Fontaine MC, Godfray HCJ, Hahn MW, Kern AD, Lawniczak MKN, O'Loughlin S, Pinto J, Riehle MM, Sharakhov I, Schrider DR, Vernick KD, White BJ, Donnelly MJ, Kwiatkowski DP.
+- [Genome variation and population structure among 1,142 mosquitoes of the African malaria vector species *Anopheles gambiae* and *Anopheles coluzzii*](http://dx.doi.org/10.1101/864314). (2019) \n
+Clarkson CS, Miles A, Harding NJ, Lucas ER, Battey CJ, Amaya-Romero JE, Cano J, Diabaté A, Constant E, Nwakanma DC, Jawara M, Essandoh J, Dinis J, Le Goff G, Robert V, Troco AD, Costantini C, Rohatgi KR, Elissa N, Coulibaly B, Midega J, Mbogo C, Mawejje HD, Stalker J, Rockett KA, Drury E, Mead D, Jeffreys AE, Hubbart C, Rowlands K, Isaacs AT, Jyothi D, Malangone C, Kamali M, Henrichs C, Simpson V, Ayala D, Besansky NJ, Burt A, Caputo B, Torre della A, Fontaine MC, Godfray HCJ, Hahn MW, Kern AD, Lawniczak MKN, O'Loughlin S, Pinto J, Riehle MM, Sharakhov I, Schrider DR, Vernick KD, White BJ, Donnelly MJ, Kwiatkowski DP.\n
 Biorxiv 387: doi: [http://dx.doi.org/10.1101/864314](http://dx.doi.org/10.1101/864314).
 
 - [The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors *Anopheles gambiae* and *Anopheles coluzzii*](https://doi.org/10.1101/323980).
