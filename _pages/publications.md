@@ -10,7 +10,7 @@ author_profile: true
 - Worldwide invasion routes of the grapevine downy mildew pathogen.
 Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
 
-- The rise of the three-spined stickleback: eco-evolutionary consequences of a mesopredator release. (2020)\n
+- The rise of the three-spined stickleback: eco-evolutionary consequences of a mesopredator release. (2020)\r\n
 Eriksson KE, Yanos C, Bourlat S, Donadi S, Fontaine MC, Hansen JP, Jakubavičiūtė E, Kiragosyan K, Maan ME, Merilä J, Austin AN, Olsson J, Sundblad G, Bergström U, Eklöf JS. *Submitted*.
 
 - [Genome variation and population structure among 1,142 mosquitoes of the African malaria vector species *Anopheles gambiae* and *Anopheles coluzzii*](http://dx.doi.org/10.1101/864314). (2019) \n
