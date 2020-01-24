@@ -17,11 +17,11 @@ Eriksson KE, Yanos C, Bourlat S, Donadi S, Fontaine MC, Hansen JP, Jakubavičiū
 Clarkson CS, Miles A, Miles, Harding NJ, Weetman D, Kwiatkowski D, Donnelly M, The Anopheles gambiae 1000 Genomes Consortium (including Fontaine MC). 2019. (As member of the consortium).
 BiorXiv preprint 2019: [https://doi.org/10.1101/323980](https://doi.org/10.1101/323980).
 
-## *2019*
-
-54. [Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective](https://www.biorxiv.org/content/10.1101/851469v1)
+- [Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective](https://www.biorxiv.org/content/10.1101/851469v1)
 Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, Fontaine MC.
 Preprint on BiorXiv doi: [https://doi.org/10.1101/851469](doi: https://doi.org/10.1101/851469)
+
+## *2019*
 
 53. [Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)
 Bergey CM, Lukindu M, Wiltshire RM, Fontaine MC, Kayondo J, Besansky NJ
@@ -29,8 +29,8 @@ Evolutionary Applications 2019
 Doi: [https://doi.org/10.1111/eva.12878](https://doi.org/10.1111/eva.12878)
 
 52. [Genetic homogeneity in face of morphological heterogeneity in the harbor porpoises from the Black Sea and adjacent waters](https://www.nature.com/articles/s41437-019-0284-1)
-Chehida YB, Thumloup J, Vishnyakova K, Gol’din P, Fontaine MC
-Heredity 2019 : In press
+Chehida YB, Thumloup J, Vishnyakova K, Gol’din P, Fontaine MC.
+Heredity 2019 https://doi.org/10.1038/s41437-019-0284-1
 Preprint on Biorxiv, doi: http://dx.doi.org/10.1101/634329.
 
 51. Report of Joint IMR/NAMMCO International Workshop on the Status of Harbour Porpoises in the North Atlantic. Tromsø, Norway.
