@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## *Preprints*
-
 - Worldwide invasion routes of the grapevine downy mildew pathogen.
 Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
 
@@ -26,8 +25,7 @@ Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberst
 Preprint on BiorXiv doi: [https://doi.org/10.1101/851469](doi: https://doi.org/10.1101/851469)
 
 ## *2019*
-
-53. [Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)
+- [Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)
 Bergey CM, Lukindu M, Wiltshire RM, Fontaine MC, Kayondo J, Besansky NJ
 Evolutionary Applications 2019
 Doi: [https://doi.org/10.1111/eva.12878](https://doi.org/10.1111/eva.12878)
@@ -208,23 +206,23 @@ Fontaine M. C., 2008 PhD Thesis defended the in March 2008 at the University of 
 
 ## *2007*
 
-6. Rise of oceanographic barriers in continuous populations of a cetacean: the genetic structure of harbour porpoises in Old World waters.
+1. Item 6. Rise of oceanographic barriers in continuous populations of a cetacean: the genetic structure of harbour porpoises in Old World waters.
 Fontaine M. C., Baird S. J. E., Piry S., Ray N., Tolley K. A., Duke S., Birkun A., Ferreira M., Jauniaux T., Llavona Á., Öztürk B., A Öztürk A., Ridoux V., Rogan E., Sequeira M., Siebert U., Vikingsson G. A., Bouquegneau J.-M., Michaux J. R., 2007a. BMC Biol 5: 30.
 
-5. Long-term feeding ecology and habitat use in harbour porpoises *Phocoena phocoena* from Scandinavian waters inferred from trace elements and stable isotopes.
+1. Item 5. Long-term feeding ecology and habitat use in harbour porpoises *Phocoena phocoena* from Scandinavian waters inferred from trace elements and stable isotopes.
 Fontaine M. C., Tolley K. A., Siebert U., Gobert S., Lepoint G., Bouquegneau J.-M., Das K., 2007b. BMC Ecol 7: 1.
 
-4. Genetic pattern of the recent recovery of European otters in southern France.
+1. Item 4. Genetic pattern of the recent recovery of European otters in southern France.
 Janssens X.\*, Fontaine M. C.\*, Michaux J. R. , Libois R., de Kermabon J., Defourny P., Baret P. V., 2007. Ecography 31: 176–186. \*Contributed equally.
 
 ## *2003 -> 2006*
 
-3. Ecological and pathological factors related to trace metal concentrations in harbour porpoises *Phocoena phocoena* from the North Sea and adjacent areas.
+1. Item 3. Ecological and pathological factors related to trace metal concentrations in harbour porpoises *Phocoena phocoena* from the North Sea and adjacent areas.
 Das K., Siebert U., Fontaine M., Jauniaux T., Holsbeek L., Bouquegneau J. M., 2004   Mar. Ecol. Prog. Ser. 281.
 
-2. Fluorescent Multiplex Polymerase Chain Reactions (PCRs) for Rapid Genotyping of Harbour Porpoises (*Phocoena phocoena*) with 11 Microsatellite Loci.
+1. Item 2. Fluorescent Multiplex Polymerase Chain Reactions (PCRs) for Rapid Genotyping of Harbour Porpoises (*Phocoena phocoena*) with 11 Microsatellite Loci.
 Fontaine M. C., Galan M., Bouquegneau J.-M., Michaux J. R., 2006   Aquatic mammals 32: 301–304.
 
-1. Carbon and Nitrogen Isotopic Ratios of the Seagrass *Posidonia oceanica*: Depth-related Variations.
+1. Item 1. Carbon and Nitrogen Isotopic Ratios of the Seagrass *Posidonia oceanica*: Depth-related Variations.
 Lepoint G., Dauby P., Fontaine M., Bouquegneau J. M., Gobert S., 2003. Botanica Marina 46: 555–561.
 {: reversed="reversed"}
