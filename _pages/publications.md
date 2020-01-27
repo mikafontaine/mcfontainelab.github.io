@@ -25,70 +25,70 @@ Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberst
 Preprint on BiorXiv doi: [https://doi.org/10.1101/851469](doi: https://doi.org/10.1101/851469)
 
 ## *2019*
-53. [Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)
+53\. [Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)
 Bergey CM, Lukindu M, Wiltshire RM, Fontaine MC, Kayondo J, Besansky NJ
 Evolutionary Applications 2019
 Doi: [https://doi.org/10.1111/eva.12878](https://doi.org/10.1111/eva.12878)
 
-52. [Genetic homogeneity in face of morphological heterogeneity in the harbor porpoises from the Black Sea and adjacent waters](https://www.nature.com/articles/s41437-019-0284-1)
+52\. [Genetic homogeneity in face of morphological heterogeneity in the harbor porpoises from the Black Sea and adjacent waters](https://www.nature.com/articles/s41437-019-0284-1)
 Chehida YB, Thumloup J, Vishnyakova K, Gol’din P, Fontaine MC.
 Heredity 2019 https://doi.org/10.1038/s41437-019-0284-1
 Preprint on Biorxiv, doi: http://dx.doi.org/10.1101/634329.
 
-51. Report of Joint IMR/NAMMCO International Workshop on the Status of Harbour Porpoises in the North Atlantic. Tromsø, Norway.
+51\. Report of Joint IMR/NAMMCO International Workshop on the Status of Harbour Porpoises in the North Atlantic. Tromsø, Norway.
 North Atlantic Marine Mammal Commission and the Norwegian Institute of Marine Research. (2019). (Link)
 
-50. Whole-genome sequencing reveals high complexity of copy number variation at insecticide resistance loci in malaria mosquitoes.
+50\. Whole-genome sequencing reveals high complexity of copy number variation at insecticide resistance loci in malaria mosquitoes.
 Lucas ER, Miles A, Harding NJ, Clarkson CS, Lawniczak MKN, Kwiatkowski DP, Weetman D, Donnelly MJ, The Anopheles gambiae 1000 Genomes Consortium (including Fontaine MC)
 Genome Research 2019, 29:1250–1261.
 Doi: https://doi.org/10.1101/gr.245795.118
 
-49. Population genetics and connectivity in the apex predator *Carcharhinus leucas*.
+49\. Population genetics and connectivity in the apex predator *Carcharhinus leucas*.
 Pirog A, Ravigné V, Fontaine MC, Rieux A, Gilabert A, Cliff G, Clua E, Daly R, Heithaus MR, Kiszka JJ, Matich P, Nevill JEG, Smoothey AF, Temple AJ, Jequemet S, Magalon H.
 Ecology and Evolution 2019.
 Doi: https://doi.org/10.1002/ece3.5597.
 
-48. Host, symbionts, and the microbiome: the missing tripartite interaction.
+48\. Host, symbionts, and the microbiome: the missing tripartite interaction.
 Brinker P, Fontaine MC, Beukeboom LW, Falcao Salles J.  
 Trends in Microbiology 2019, 27: 480-88.
 Doi: https://doi.org/10.1016/j.tim.2019.02.002
 
 ## *2018*
 
-47. Resilience of harbour porpoises to anthropogenic disturbance: must they really feed continuously?
+47\. Resilience of harbour porpoises to anthropogenic disturbance: must they really feed continuously?
 Hoekendijk JPA, Spitz J, Read AJ, Leopold MF, Fontaine MC, 2018. Marine Mammal Science 34: 258-264. (https://doi.org/10.1111/mms.12446).
 
 ## *2017*
 
-46. Genetic Footprint of Population Fragmentation and Contemporaneous Decline in the Endangered Yangtze Finless Porpoise.
+46\. Genetic Footprint of Population Fragmentation and Contemporaneous Decline in the Endangered Yangtze Finless Porpoise.
 Chen M.\*, Fontaine M. C.\*, Chehida Y. B.\*, Zheng J., Mei Z., Hao Y., Wang K., Wu M., Zhao Q., Wang D. Scientific Reports 7: 14449.
 (https://doi.org/10.1038/s41598-017-14812-z).
 \* These authors contributed equally and are considered co-first authors.
 
-45. A genomic perspective is needed for the re-evaluation of species boundaries, evolutionary trajectories and conservation strategies for the Galapagos giant tortoises.
+45\. A genomic perspective is needed for the re-evaluation of species boundaries, evolutionary trajectories and conservation strategies for the Galapagos giant tortoises.
 Fontaine MC, 2017 PCI Evol Biol. 100031.(https://doi.org/10.24072/pci.evolbiol.100031).
 
-44. Demographic history of *Armillaria ostoyae* population in a managed pine forest in southwestern France.
+44\. Demographic history of *Armillaria ostoyae* population in a managed pine forest in southwestern France.
 Labbé F., Fontaine M. C., Robin C., Dutech C. Heredity, 119: 402–410. (https://doi.org/10.1038/hdy.2017.58).
 
-43. Natural diversity of the malaria vector *Anopheles gambiae*.
+43\. Natural diversity of the malaria vector *Anopheles gambiae*.
 Miles A., Harding N. J., Botta G., Clarkson C., Antão T., Kozak K., Schrider D., Kern A., Redmond S., Sharakhov I., Pearson R., Bergey C., Fontaine M. C., Troco A., Diabaté A., Costantini C., Rohatgi K., Elissa N., Coulibaly B., Dinis J., Midega J., Mbogo C., Mawejje H., Stalker J., Rockett K., Drury E., Mead D., Jeffreys A., Hubbart C., Rowlands K., Isaacs A., Jyothi D., Malangone C., Vauterin P., Jeffrey B., Wright I., Hart L., Kluczynski K., Cornelius V., MacInnis B., Henrichs C., Giacomantonio R., Ayala D., Bejon P., Besansky N., Burt A., Caputo B., Torre della A., Godfray C., Hahn M., Neafsey D. E., O’Loughlin S., Pinto J., Riehle M., Vernick K., Weetman D., Wilding C., White B., Lawniczak M., Donnelly M., Kwiatkowski D. (Pre-print Biorxiv: 096289).
 Nature, 552: 96-100.
 (https://doi.org/10.1038/nature24995)
 
-42. Genomic and proteomic identification of Late Holocene cetaceans: a Black Sea case study.
+42\. Genomic and proteomic identification of Late Holocene cetaceans: a Black Sea case study.
 Biard V., Gol’din P. E., Gladilina E., Vishnyakova K., McGarth K., Vieira F. G., Wales N., Fontaine M. C., Speller C., Olsen M. T. Journal of Archeological Science, 15: 262–271.
 (https://doi.org/10.1016/j.jasrep.2017.07.008).
 
-41. Ecological and environmental factors associated with heterogeneous patterns of genomic divergence across a butterfly hybrid zone: climate being the most salient.
+41\. Ecological and environmental factors associated with heterogeneous patterns of genomic divergence across a butterfly hybrid zone: climate being the most salient.
 Ryan S., Fontaine M. C., Scriber M., O’Neil S., Pfrender M. E., Hellman J. Molecular Ecology, 26: 4725-4742.
 (https://doi.org/10.1111/mec.14236).
 
-40. Mixing of Porpoise Ecotypes in South Western UK Waters Revealed by Genetic Profiling.
+40\. Mixing of Porpoise Ecotypes in South Western UK Waters Revealed by Genetic Profiling.
 Fontaine MC, O Tatcher, N Ray, S Piry, A Brownlow, NJ Davison, P Jepson, R Deaville,   SJ Goodman. R. Soc. open sci. 4: 160992.
 (http://dx.doi.org/10.1098/rsos.160992)
 
-39. Spatial variations in concentrations of mercury and persistent organic pollutants in coastal bottlenose dolphins, *Tursiops truncatus* from the Lower Florida Keys and the coastal Everglades (South Florida).
+39\. Spatial variations in concentrations of mercury and persistent organic pollutants in coastal bottlenose dolphins, *Tursiops truncatus* from the Lower Florida Keys and the coastal Everglades (South Florida).
 Damseaux F., Kiszka J. J., Heithaus M. R., George S., Eppe G., Thomé J.-P., Lewis J., Hao W., Fontaine M. C., Das K. (2017) Environmental Pollution 220 (Pt A): 577-587. (link)
 [MEDIA coverage] FIU-News: Mercury contamination found in Everglades dolphins
 
