@@ -6,8 +6,16 @@ author_profile: true
 ---
 
 ## *Preprints*
+
+- Population genomic evidence of a Southeast Asian origin of *Plasmodium vivax*.
+Daron J, Boissière A, Ngoubangoye B, Boundenga L, House S, Arnathau C, Lekweiry KM, Trape J-F, Renaud F, Fontaine MC\*, Prugnolle F\*, Rougeron V\*, 2020.
+\* These authors contributed equally and are considered co-last authors.
+
+- Building genomic infrastructure: Sequencing platinum- standard reference-quality genomes of all cetacean species.
+Morin PA, Alexander A, Blaxter M, Caballero S, Fedrigo O, **Fontaine MC**, Foote AD, Kuraku S, Maloney B, McCarthy ML, McGowen MR, Mountcastle J, Nery MF, Olsen MT, Rosel PE, Jarvis ED, 2020.
+
 - Worldwide invasion routes of the grapevine downy mildew pathogen.
-Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
+Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F. 2020
 
 - The rise of the three-spined stickleback: eco-evolutionary consequences of a mesopredator release. (2020)
 Eriksson KE, Yanos C, Bourlat S, Donadi S, Fontaine MC, Hansen JP, Jakubavičiūtė E, Kiragosyan K, Maan ME, Merilä J, Austin AN, Olsson J, Sundblad G, Bergström U, Eklöf JS. *Submitted*.
@@ -24,11 +32,14 @@ BiorXiv preprint 2019: [https://doi.org/10.1101/323980](https://doi.org/10.1101/
 Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, Fontaine MC.
 Preprint on BiorXiv doi: [https://doi.org/10.1101/851469](doi: https://doi.org/10.1101/851469)
 
-## *2019*
+## *2020*
 53\. [Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)
 Bergey CM, Lukindu M, Wiltshire RM, Fontaine MC, Kayondo J, Besansky NJ
-Evolutionary Applications 2019
+Evolutionary Applications 2020, 13:417-431
 Doi: [https://doi.org/10.1111/eva.12878](https://doi.org/10.1111/eva.12878)
+
+
+## *2019*
 
 52\. [Genetic homogeneity in face of morphological heterogeneity in the harbor porpoises from the Black Sea and adjacent waters](https://www.nature.com/articles/s41437-019-0284-1)
 Chehida YB, Thumloup J, Vishnyakova K, Gol’din P, Fontaine MC.
