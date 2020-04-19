@@ -7,10 +7,10 @@ author_profile: true
 
 ## *Preprints*
 
-- Population genetics, dispersal and phylogeographic history of the. (2020) Chehida YB, Loughnane R, Thumloup J, Kaschner K, Garilao C, Reyes K, Rosel PE, Fontaine MC.
+- **Population genetics, dispersal and phylogeographic history of the	North Atlantic harbour porpoise (_Phocoena phocoena_).** (2020) Chehida YB, Loughnane R, Thumloup J, Kaschner K, Garilao C, Reyes K, Rosel PE, *Fontaine MC*.
 
 - Population genomic evidence of a Southeast Asian origin of *Plasmodium vivax*.
-Daron J, Boissière A, Ngoubangoye B, Boundenga L, House S, Arnathau C, Lekweiry KM, Trape J-F, Renaud F, Fontaine MC\*, Prugnolle F\*, Rougeron V\* (2020).
+Daron J, Boissière A, Ngoubangoye B, Boundenga L, House S, Arnathau C, Lekweiry KM, Trape J-F, Renaud F, __Fontaine MC\*__, Prugnolle F\*, Rougeron V\* (2020).
 \* These authors contributed equally and are considered co-last authors.
 
 - Building genomic infrastructure: Sequencing platinum- standard reference-quality genomes of all cetacean species. (2020)
