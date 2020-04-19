@@ -7,7 +7,7 @@ author_profile: true
 
 ## *Preprints*
 
-- **Population genetics, dispersal and phylogeographic history of the	North Atlantic harbour porpoise (_Phocoena phocoena_).** (2020) Chehida YB, Loughnane R, Thumloup J, Kaschner K, Garilao C, Reyes K, Rosel PE, *Fontaine MC*.
+- **Population genetics, dispersal and phylogeographic history of the	North Atlantic harbour porpoise (_Phocoena phocoena_).** (2020) Chehida YB, Loughnane R, Thumloup J, Kaschner K, Garilao C, Reyes K, Rosel PE, **Fontaine MC**.
 
 - **Population genomic evidence of a Southeast Asian origin of _Plasmodium vivax_**.
 Daron J, Boissière A, Ngoubangoye B, Boundenga L, House S, Arnathau C, Lekweiry KM, Trape J-F, Renaud F, __Fontaine MC\*__, Prugnolle F\*, Rougeron V\* (2020).
@@ -17,26 +17,26 @@ Daron J, Boissière A, Ngoubangoye B, Boundenga L, House S, Arnathau C, Lekweiry
 Morin PA, Alexander A, Blaxter M, Caballero S, Fedrigo O, **Fontaine MC**, Foote AD, Kuraku S, Maloney B, McCarthy ML, McGowen MR, Mountcastle J, Nery MF, Olsen MT, Rosel PE, Jarvis ED.
 
 - **Worldwide invasion routes of the grapevine downy mildew pathogen** (2020)
-Fontaine MC, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
+**Fontaine MC**, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
 
 - **The rise of the three-spined stickleback: eco-evolutionary consequences of a mesopredator release.** (2020)
-Eriksson KE, Yanos C, Bourlat S, Donadi S, Fontaine MC, Hansen JP, Jakubavičiūtė E, Kiragosyan K, Maan ME, Merilä J, Austin AN, Olsson J, Sundblad G, Bergström U, Eklöf JS.
+Eriksson KE, Yanos C, Bourlat S, Donadi S, **Fontaine MC**, Hansen JP, Jakubavičiūtė E, Kiragosyan K, Maan ME, Merilä J, Austin AN, Olsson J, Sundblad G, Bergström U, Eklöf JS.
 
 - **[Genome variation and population structure among 1,142 mosquitoes of the African malaria vector species *Anopheles gambiae* and *Anopheles coluzzii*](http://dx.doi.org/10.1101/864314).** (2019)
-Clarkson CS, Miles A, Harding NJ, Lucas ER, Battey CJ, Amaya-Romero JE, Cano J, Diabaté A, Constant E, Nwakanma DC, Jawara M, Essandoh J, Dinis J, Le Goff G, Robert V, Troco AD, Costantini C, Rohatgi KR, Elissa N, Coulibaly B, Midega J, Mbogo C, Mawejje HD, Stalker J, Rockett KA, Drury E, Mead D, Jeffreys AE, Hubbart C, Rowlands K, Isaacs AT, Jyothi D, Malangone C, Kamali M, Henrichs C, Simpson V, Ayala D, Besansky NJ, Burt A, Caputo B, Torre della A, Fontaine MC, Godfray HCJ, Hahn MW, Kern AD, Lawniczak MKN, O'Loughlin S, Pinto J, Riehle MM, Sharakhov I, Schrider DR, Vernick KD, White BJ, Donnelly MJ, Kwiatkowski DP.\n
+Clarkson CS, Miles A, Harding NJ, Lucas ER, Battey CJ, Amaya-Romero JE, Cano J, Diabaté A, Constant E, Nwakanma DC, Jawara M, Essandoh J, Dinis J, Le Goff G, Robert V, Troco AD, Costantini C, Rohatgi KR, Elissa N, Coulibaly B, Midega J, Mbogo C, Mawejje HD, Stalker J, Rockett KA, Drury E, Mead D, Jeffreys AE, Hubbart C, Rowlands K, Isaacs AT, Jyothi D, Malangone C, Kamali M, Henrichs C, Simpson V, Ayala D, Besansky NJ, Burt A, Caputo B, Torre della A, **Fontaine MC**, Godfray HCJ, Hahn MW, Kern AD, Lawniczak MKN, O'Loughlin S, Pinto J, Riehle MM, Sharakhov I, Schrider DR, Vernick KD, White BJ, Donnelly MJ, Kwiatkowski DP.\n
 Biorxiv 387: doi: [http://dx.doi.org/10.1101/864314](http://dx.doi.org/10.1101/864314).
 
 - **[The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors *Anopheles gambiae* and *Anopheles coluzzii*](https://doi.org/10.1101/323980).**
-Clarkson CS, Miles A, Miles, Harding NJ, Weetman D, Kwiatkowski D, Donnelly M, The Anopheles gambiae 1000 Genomes Consortium (including Fontaine MC). 2019. (As member of the consortium).
+Clarkson CS, Miles A, Miles, Harding NJ, Weetman D, Kwiatkowski D, Donnelly M, The Anopheles gambiae 1000 Genomes Consortium (including **Fontaine MC**). 2019. (As member of the consortium).
 BiorXiv preprint 2019: [https://doi.org/10.1101/323980](https://doi.org/10.1101/323980).
 
 - **[Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective](https://www.biorxiv.org/content/10.1101/851469v1).** (2019).
-Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, Fontaine MC.
+Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, **Fontaine MC**.
 Preprint on BiorXiv doi: [https://doi.org/10.1101/851469](doi: https://doi.org/10.1101/851469)
 
 ## *2020*
-53\. [Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)
-Bergey CM, Lukindu M, Wiltshire RM, Fontaine MC, Kayondo J, Besansky NJ
+53\. **[Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)**
+Bergey CM, Lukindu M, Wiltshire RM, **Fontaine MC**, Kayondo J, Besansky NJ
 Evolutionary Applications 2020, 13:417-431
 Doi: [https://doi.org/10.1111/eva.12878](https://doi.org/10.1111/eva.12878)
 
