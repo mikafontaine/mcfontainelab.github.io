@@ -13,9 +13,6 @@ author_profile: true
 Daron J, Boissière A, Ngoubangoye B, Boundenga L, House S, Arnathau C, Lekweiry KM, Trape J-F, Renaud F, __Fontaine MC\*__, Prugnolle F\*, Rougeron V\* (2020).
 \* These authors contributed equally and are considered co-last authors.
 
-- **Building genomic infrastructure: Sequencing platinum -standard reference-quality genomes of all cetacean species.** (2020)
-Morin PA, Alexander A, Blaxter M, Caballero S, Fedrigo O, **Fontaine MC**, Foote AD, Kuraku S, Maloney B, McCarthy ML, McGowen MR, Mountcastle J, Nery MF, Olsen MT, Rosel PE, Jarvis ED.
-
 - **Worldwide invasion routes of the grapevine downy mildew pathogen** (2020)
 **Fontaine MC**, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
 
@@ -30,18 +27,33 @@ Biorxiv 387: doi: [http://dx.doi.org/10.1101/864314](http://dx.doi.org/10.1101/8
 Clarkson CS, Miles A, Miles, Harding NJ, Weetman D, Kwiatkowski D, Donnelly M, The Anopheles gambiae 1000 Genomes Consortium (including **Fontaine MC**). 2019. (As member of the consortium).
 BiorXiv preprint 2019: [https://doi.org/10.1101/323980](https://doi.org/10.1101/323980).
 
-- **[Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective](https://www.biorxiv.org/content/10.1101/851469v1).** (2019).
-Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, **Fontaine MC**.
-Preprint on BiorXiv doi: [https://doi.org/10.1101/851469](doi: https://doi.org/10.1101/851469)
+- **Data from the dead: genomic SNPs from poor-quality samples detect population structure in North Pacific harbor porpoise.**
+Morin PA, Hancock-Hanser BL, Robertson KM, Forney KA, Crossman CA, Barrett-Lennard LG, Baird RW, Calambokidis J, Gearin P, Hanson BM, Schumacher C, Harkins T, Forester BR, **Fontaine MC**, Taylor BL, Parsons K.
+*Submitted*.
 
 ## *2020*
-53\. **[Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)**
-Bergey CM, Lukindu M, Wiltshire RM, **Fontaine MC**, Kayondo J, Besansky NJ
+56\. **[Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective](https://www.biorxiv.org/content/10.1101/851469v1).** (2019).
+Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, **Fontaine MC**.
+Preprint on BiorXiv doi: [https://doi.org/10.1101/851469](doi: https://doi.org/10.1101/851469)
+*Minor revision*.
+
+55\. **Building genomic infrastructure: Sequencing platinum -standard reference-quality genomes of all cetacean species.** (2020)
+Morin PA, Alexander A, Blaxter M, Caballero S, Fedrigo O, **Fontaine MC**, Foote AD, Kuraku S, Maloney B, McCarthy ML, McGowen MR, Mountcastle J, Nery MF, Olsen MT, Rosel PE, Jarvis ED.
+Marine Mammal Sciences 2020, *In press*.
+Doi:
+
+54\. **[Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)**
+Bergey CM, Lukindu M, Wiltshire RM, **Fontaine MC**, Kayondo J, Besansky NJ.
 Evolutionary Applications 2020, 13:417-431
 Doi: [https://doi.org/10.1111/eva.12878](https://doi.org/10.1111/eva.12878)
 
 
 ## *2019*
+
+53\.	**In Silico Karyotyping of Chromosomally Polymorphic Malaria Mosquitoes in the Anopheles gambiaeComplex.**
+Love RR, Redmond SN, Pombi M, Caputo B, Petrarca V, della Torre A, The Anopheles gambiae 1000 Genomes Consortium (including **Fontaine MC**), Besansky NJ.
+G3: Genes, Genomes, Genetics. 2019;9(10):3249-3262.
+Doi:10.1534/g3.119.400445.
 
 52\. [Genetic homogeneity in face of morphological heterogeneity in the harbor porpoises from the Black Sea and adjacent waters](https://www.nature.com/articles/s41437-019-0284-1)
 Chehida YB, Thumloup J, Vishnyakova K, Gol’din P, Fontaine MC.
