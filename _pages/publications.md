@@ -10,9 +10,9 @@ author_profile: true
 
 ## *2023*
 
-81\. Ben Chehida, Y., Stelwagen, T., Hoekendijk, J. P. A., Ferreira, M., Eira, C., Pereira, A. T., Nicolau, L., Thumloup, J., & Fontaine, M. C. (2023). Harbor porpoise losing its edges: genetic time series suggests a rapid population decline in Iberian waters over the last 30 years. Ecology and Evolution, accepted. https://doi.org/10.1101/2021.08.19.456945 
+81\. Ben Chehida, Y., Stelwagen, T., Hoekendijk, J. P. A., Ferreira, M., Eira, C., Pereira, A. T., Nicolau, L., Thumloup, J., & Fontaine, M. C. (2023). Harbor porpoise losing its edges: genetic time series suggests a rapid population decline in Iberian waters over the last 30 years. Ecology and Evolution, minor revisions. https://doi.org/10.1101/2021.08.19.456945 
 
-80\. Romero, J. E. A., Chenal, C., Chehida, Y. B., Miles, A., Clarkson, C. S., Pedergnana, V., Wertheim, B., & Fontaine, M. C. (2023). Mitochondrial variation in Anopheles gambiae and An. coluzzii: phylogeographic legacy of species isolation and mito-nuclear associations with metabolic resistance to pathogens and insecticides. biorXiv. https://doi.org/10.1101/2023.07.18.549472 
+80\. Romero, J. E. A., Chenal, C., Chehida, Y. B., Miles, A., Clarkson, C. S., Pedergnana, V., Wertheim, B., & Fontaine, M. C. (2023). Mitochondrial variation in Anopheles gambiae and An. coluzzii: phylogeographic legacy of species isolation and mito-nuclear associations with metabolic resistance to pathogens and insecticides. Under revision in GBE. Preprint biorXiv. https://doi.org/10.1101/2023.07.18.549472 
 
 79\. Crossman, C. A., Fontaine, M. C., & Frasier, T. R. (2023). A comparison of genomic diversity and demographic history of the North Atlantic and Southwest Atlantic southern right whales. Mol Ecol, In press. https://doi.org/10.1111/mec.17099 
 
