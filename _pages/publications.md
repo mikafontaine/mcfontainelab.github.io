@@ -31,37 +31,64 @@ BiorXiv preprint 2019: [https://doi.org/10.1101/323980](https://doi.org/10.1101/
 Morin PA, Hancock-Hanser BL, Robertson KM, Forney KA, Crossman CA, Barrett-Lennard LG, Baird RW, Calambokidis J, Gearin P, Hanson BM, Schumacher C, Harkins T, Forester BR, **Fontaine MC**, Taylor BL, Parsons K.
 *Submitted*.
 
-## *2020*
-56\. **[Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective](https://www.biorxiv.org/content/10.1101/851469v1).** (2019).
-Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, **Fontaine MC**.
-Preprint on BiorXiv doi: [https://doi.org/10.1101/851469](doi: https://doi.org/10.1101/851469)
-*Minor revision*.
+## *2023*
 
-55\. **Building genomic infrastructure: Sequencing platinum -standard reference-quality genomes of all cetacean species.** (2020)
+## *2022*
+
+## *2021*
+
+## *2020*
+58\. **[Genome variation and population structure among 1142 mosquitoes of the African malaria vector species Anopheles gambiae and Anopheles coluzzii.](https://doi.org/10.1101/gr.262790.120 )**
+The Anopheles gambiae 1000 Genomes Consortium
+Genome Res 2020: 30(10), 1533-1546. 
+DOI:https://doi.org/10.1101/gr.262790.120 
+
+57\. **[Radiation with reticulation marks the origin of a major malaria vector](https://doi.org/10.1073/pnas.2018142117)**
+Small, S. T., Labbe, F., Lobo, N. F., Koekemoer, L. L., Sikaala, C. H., Neafsey, D. E., Hahn, M. W., **Fontaine, M.C.**, & Besansky, N. J. 
+Proc Natl Acad Sci U S A 2020:117(50), 31583-31590. 
+DOI: https://doi.org/10.1073/pnas.2018142117 
+
+
+56\. **[Is Iberian harbour porpoise (*Phocoena phocoena*) threatened by interactions with fisheries?](https://hal.archives-ouvertes.fr/hal-03420827)**
+Pierce, G., J, Weir, C., Gutierrez, P., Verutes, G., Fontaine, M. C., Hernandez Gonzalez, A., Saavedra, C., Llavona, A., Martínez-Cedeira, J., Covelo, P., López, A., Read, F., L, & Dolman, S., J. 
+IWC Scientific Committee Paper 2020:SC/68B/SM/04 Rev62.
+https://hal.archives-ouvertes.fr/hal-03420827 
+
+55\. **[Building genomic infrastructure: Sequencing platinum -standard reference-quality genomes of all cetacean species.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mms.12721?download=true)**
 Morin PA, Alexander A, Blaxter M, Caballero S, Fedrigo O, **Fontaine MC**, Foote AD, Kuraku S, Maloney B, McCarthy ML, McGowen MR, Mountcastle J, Nery MF, Olsen MT, Rosel PE, Jarvis ED.
-Marine Mammal Sciences 2020, *In press*.
-Doi:
+Marine Mammal Sciences 2020, 6(4):1356-1366
+DOI: 10.1111/mms.12721
+
+55\. **[Evolution of the Insecticide Target Rdl in African Anopheles Is Driven by Interspecific and Interkaryotypic Introgression.](https://doi.org/10.1093/molbev/msaa128 )**
+Grau-Bové, X., Tomlinson, S., O’Reilly, A. O., Harding, N. J., Miles, A., Kwiatkowski, D., Donnelly, M. J., Weetman, D., & The Anopheles gambiae 1000 Genomes Consortium [including **Fontaine MC**].
+Molecular Biology and Evolution 2020, 37(10), 2900-2917. 
+DOI: [https://doi.org/10.1093/molbev/msaa128](https://doi.org/10.1093/molbev/msaa128)
+
 
 54\. **[Assessing connectivity despite high diversity in island populations of the malaria mosquito *Anopheles gambiae*](https://doi.org/10.1111/eva.12878)**
 Bergey CM, Lukindu M, Wiltshire RM, **Fontaine MC**, Kayondo J, Besansky NJ.
 Evolutionary Applications 2020, 13:417-431
 Doi: [https://doi.org/10.1111/eva.12878](https://doi.org/10.1111/eva.12878)
 
+54\. [Genetic homogeneity in face of morphological heterogeneity in the harbor porpoises from the Black Sea and adjacent waters](https://www.nature.com/articles/s41437-019-0284-1)
+Chehida YB, Thumloup J, Vishnyakova K, Gol’din P, Fontaine MC.
+Heredity 2020, 124:469-484. 
+doi: [https://doi.org/10.1038/s41437-019-0284-1](https://doi.org/10.1038/s41437-019-0284-1)
+
+53\. **[Evolutionary history of the porpoises (Phocoenidae) across the speciation continuum: a mitogenome phylogeographic perspective](https://doi.org/10.1038/s41598-020-71603-9).** (2020).
+Chehida YB, Aguilar A, Borrell A, Ferreira M, Taylor BL, Rojas-Bracho L, Roberston KM, Thumloup J, Schumacher C, Harkins T, Víkingsson GA, Weyna A, Romiguier J, Morin PA, **Fontaine MC**.
+doi: [https://doi.org/10.1038/s41598-020-71603-9](doi: https://doi.org/10.1038/s41598-020-71603-9)
 
 ## *2019*
 
-53\.	**In Silico Karyotyping of Chromosomally Polymorphic Malaria Mosquitoes in the Anopheles gambiaeComplex.**
+52\.	**In Silico Karyotyping of Chromosomally Polymorphic Malaria Mosquitoes in the Anopheles gambiaeComplex.**
 Love RR, Redmond SN, Pombi M, Caputo B, Petrarca V, della Torre A, The Anopheles gambiae 1000 Genomes Consortium (including **Fontaine MC**), Besansky NJ.
 G3: Genes, Genomes, Genetics. 2019;9(10):3249-3262.
 Doi:10.1534/g3.119.400445.
 
-52\. [Genetic homogeneity in face of morphological heterogeneity in the harbor porpoises from the Black Sea and adjacent waters](https://www.nature.com/articles/s41437-019-0284-1)
-Chehida YB, Thumloup J, Vishnyakova K, Gol’din P, Fontaine MC.
-Heredity 2019 https://doi.org/10.1038/s41437-019-0284-1
-Preprint on Biorxiv, doi: http://dx.doi.org/10.1101/634329.
-
 51\. Report of Joint IMR/NAMMCO International Workshop on the Status of Harbour Porpoises in the North Atlantic. Tromsø, Norway.
-North Atlantic Marine Mammal Commission and the Norwegian Institute of Marine Research. (2019). (Link)
+North Atlantic Marine Mammal Commission and the Norwegian Institute of Marine Research. (2019).
+(Link: https://nammco.no/wp-content/uploads/2020/03/final-report_hpws_2018_rev2020.pdf)
 
 50\. Whole-genome sequencing reveals high complexity of copy number variation at insecticide resistance loci in malaria mosquitoes.
 Lucas ER, Miles A, Harding NJ, Clarkson CS, Lawniczak MKN, Kwiatkowski DP, Weetman D, Donnelly MJ, The Anopheles gambiae 1000 Genomes Consortium (including Fontaine MC)
@@ -70,7 +97,7 @@ Doi: https://doi.org/10.1101/gr.245795.118
 
 49\. Population genetics and connectivity in the apex predator *Carcharhinus leucas*.
 Pirog A, Ravigné V, Fontaine MC, Rieux A, Gilabert A, Cliff G, Clua E, Daly R, Heithaus MR, Kiszka JJ, Matich P, Nevill JEG, Smoothey AF, Temple AJ, Jequemet S, Magalon H.
-Ecology and Evolution 2019.
+Ecology and Evolution 2019, 9: 12980-13000
 Doi: https://doi.org/10.1002/ece3.5597.
 
 48\. Host, symbionts, and the microbiome: the missing tripartite interaction.
