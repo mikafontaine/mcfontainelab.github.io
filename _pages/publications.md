@@ -7,35 +7,60 @@ author_profile: true
 
 ## *Preprints*
 
-- **Population genetics, dispersal and phylogeographic history of the	North Atlantic harbour porpoise (_Phocoena phocoena_).** (2020) Chehida YB, Loughnane R, Thumloup J, Kaschner K, Garilao C, Reyes K, Rosel PE, **Fontaine MC**.
-
-- **Population genomic evidence of a Southeast Asian origin of _Plasmodium vivax_**.
-Daron J, Boissière A, Ngoubangoye B, Boundenga L, House S, Arnathau C, Lekweiry KM, Trape J-F, Renaud F, __Fontaine MC\*__, Prugnolle F\*, Rougeron V\* (2020).
-\* These authors contributed equally and are considered co-last authors.
-
-- **Worldwide invasion routes of the grapevine downy mildew pathogen** (2020)
-**Fontaine MC**, Labbé F, Papura D, Richard-Cervera S, Giraud T, Delmotte F.
-
-- **The rise of the three-spined stickleback: eco-evolutionary consequences of a mesopredator release.** (2020)
-Eriksson KE, Yanos C, Bourlat S, Donadi S, **Fontaine MC**, Hansen JP, Jakubavičiūtė E, Kiragosyan K, Maan ME, Merilä J, Austin AN, Olsson J, Sundblad G, Bergström U, Eklöf JS.
-
-- **[Genome variation and population structure among 1,142 mosquitoes of the African malaria vector species *Anopheles gambiae* and *Anopheles coluzzii*](http://dx.doi.org/10.1101/864314).** (2019)
-Clarkson CS, Miles A, Harding NJ, Lucas ER, Battey CJ, Amaya-Romero JE, Cano J, Diabaté A, Constant E, Nwakanma DC, Jawara M, Essandoh J, Dinis J, Le Goff G, Robert V, Troco AD, Costantini C, Rohatgi KR, Elissa N, Coulibaly B, Midega J, Mbogo C, Mawejje HD, Stalker J, Rockett KA, Drury E, Mead D, Jeffreys AE, Hubbart C, Rowlands K, Isaacs AT, Jyothi D, Malangone C, Kamali M, Henrichs C, Simpson V, Ayala D, Besansky NJ, Burt A, Caputo B, Torre della A, **Fontaine MC**, Godfray HCJ, Hahn MW, Kern AD, Lawniczak MKN, O'Loughlin S, Pinto J, Riehle MM, Sharakhov I, Schrider DR, Vernick KD, White BJ, Donnelly MJ, Kwiatkowski DP.
-Biorxiv 387: doi: [http://dx.doi.org/10.1101/864314](http://dx.doi.org/10.1101/864314).
-
-- **[The genetic architecture of target-site resistance to pyrethroid insecticides in the African malaria vectors *Anopheles gambiae* and *Anopheles coluzzii*](https://doi.org/10.1101/323980).**
-Clarkson CS, Miles A, Miles, Harding NJ, Weetman D, Kwiatkowski D, Donnelly M, The Anopheles gambiae 1000 Genomes Consortium (including **Fontaine MC**). 2019. (As member of the consortium).
-BiorXiv preprint 2019: [https://doi.org/10.1101/323980](https://doi.org/10.1101/323980).
-
-- **Data from the dead: genomic SNPs from poor-quality samples detect population structure in North Pacific harbor porpoise.**
-Morin PA, Hancock-Hanser BL, Robertson KM, Forney KA, Crossman CA, Barrett-Lennard LG, Baird RW, Calambokidis J, Gearin P, Hanson BM, Schumacher C, Harkins T, Forester BR, **Fontaine MC**, Taylor BL, Parsons K.
-*Submitted*.
 
 ## *2023*
 
+81\. Ben Chehida, Y., Stelwagen, T., Hoekendijk, J. P. A., Ferreira, M., Eira, C., Pereira, A. T., Nicolau, L., Thumloup, J., & Fontaine, M. C. (2023). Harbor porpoise losing its edges: genetic time series suggests a rapid population decline in Iberian waters over the last 30 years. Ecology and Evolution, accepted. https://doi.org/10.1101/2021.08.19.456945 
+
+80\. Romero, J. E. A., Chenal, C., Chehida, Y. B., Miles, A., Clarkson, C. S., Pedergnana, V., Wertheim, B., & Fontaine, M. C. (2023). Mitochondrial variation in Anopheles gambiae and An. coluzzii: phylogeographic legacy of species isolation and mito-nuclear associations with metabolic resistance to pathogens and insecticides. biorXiv. https://doi.org/10.1101/2023.07.18.549472 
+
+79\. Crossman, C. A., Fontaine, M. C., & Frasier, T. R. (2023). A comparison of genomic diversity and demographic history of the North Atlantic and Southwest Atlantic southern right whales. Mol Ecol, In press. https://doi.org/10.1111/mec.17099 
+
+78\. Kyriazis, C. C., Robinson, J. A., Nigenda-Morales, S. F., Beichman, A. C., Rojas-Bracho, L., Robertson, K. M., Fontaine, M. C., Wayne, R. K., Taylor, B. L., Lohmueller, K. E., & Morin, P. A. (2023). Models based on best-available information support a low inbreeding load and potential for recovery in the vaquita. Heredity, In press. https://doi.org/10.1038/s41437-023-00608-7 
+
+77\. Lefebvre, M. J. M., Daron, J., Legrand, E., Fontaine, M. C., Rougeron, V., & Prugnolle, F. (2023). Population genomic evidence of adaptive response during the invasion history of Plasmodium falciparum in the Americas. Molecular Biology and Evolution. https://doi.org/https://doi.org/10.1093/molbev/msad082 
+
+76\. Louis, M., Korlević, P., Nykänen, M., Archer, F., Berrow, S., Brownlow, A., Lorenzen, E. D., O’Brien, J., Post, K., Racimo, F., Rogan, E., Rosel, P. E., Sinding, M. H. S., van der Es, H., Wales, N., Fontaine, M. C., Gaggiotti, O., & Foote, A. D. (2023). Ancient dolphin genomes reveal rapid repeated adaptation to coastal waters. Nature Communications. https://doi.org/10.1038/s41467-023-39532-z 
+
+75\. Small, S. T., Costantini, C., Sagnon, N. F., Guelbeogo, M. W., Emrich, S. J., Kern, A. D., Fontaine, M. C., & Besansky, N. J. (2023). Standing genetic variation and chromosome differences drove rapid ecotype formation in a major malaria vector. Proceedings of the National Academy of Sciences, 120(11), e2219835120. https://doi.org/10.1073/pnas.2219835120 
+
 ## *2022*
+74\. Rougeron, V., Daron, J., Fontaine, M. C., & Prugnolle, F. (2022). Evolutionary history of Plasmodium vivax and Plasmodium simium in the Americas. Malar J, 21(1), 141. https://doi.org/10.1186/s12936-022-04132-7 
+
+73\. Robinson, J. A., Kyriazis, C. C., Nigenda-Morales, S. F., Beichman, A. C., Rojas-Bracho, L., Robertson, K. M., Fontaine, M. C., Wayne, R. K., Lohmueller, K. E., Taylor, B. L., & Morin, P. A. (2022). The critically endangered vaquita is not doomed to extinction by inbreeding depression. Science, 376(6593), 635-639. https://doi.org/10.1126/science.abm1742 
+
+72\. Fontaine, M. (2022). Reticulated evolution marks the rapid diversification of the Delphinoidae. Peer Community In Evolutionary Biology. https://doi.org/10.24072/pci.evolbiol.100139 
+
+71\. Conklin, J. R., Verkuil, Y. I., Battley, P. F., Hassell, C. J., Ten Horn, J., Johnson, J. A., Tomkovich, P. S., Baker, A. J., Piersma, T., & Fontaine, M. C. (2022). Global flyway evolution in red knots Calidris canutus and genetic evidence for a Nearctic refugium. Mol Ecol, 31(7), 2124-2139. https://doi.org/10.1111/mec.16379 
+
+70\. Brinker, P., Chen, F., Ben Chehida, Y., Beukeboom, L. W., Fontaine, M. C., & Falcao Salles, J. (2022). Microbiome composition is shaped by geography and population structure in the parasitic wasp Asobara japonica, but not in the presence of the endosymbiont Wolbachia. Mol Ecol, accepted. https://doi.org/10.1111/mec.16699 
+
 
 ## *2021*
+69\. Yanos, C. L., Haanstra, E. P., Colgan Carey, F., Passmore, S. A., Eklof, J. S., Bergstrom, U., Hansen, J. P., Fontaine, M. C., Maan, M. E., & Eriksson, B. K. (2021). Predator biomass and vegetation influence the coastal distribution of threespine stickleback morphotypes. Ecol Evol, 11(18), 12485-12496. https://doi.org/10.1002/ece3.7993 
+
+68\. Xue, A. T., Schrider, D. R., Kern, A. D., & The Anopheles gambiae 1000 Genomes Consortium. (2021). Discovery of Ongoing Selective Sweeps within Anopheles Mosquito Populations Using Deep Learning. Molecular Biology and Evolution, 38(3), 1168-1183. https://doi.org/10.1093/molbev/msaa259 
+Wagah, M. G., Korlevic, P., Clarkson, C., Miles, A., The Anopheles gambiae 1000 Genomes Consortium, Lawniczak, M. K. N., & Makunin, A. (2021). Genetic variation at the Cyp6m2 putative insecticide resistance locus in Anopheles gambiae and Anopheles coluzzii. Malar J, 20(1), 234. https://doi.org/10.1186/s12936-021-03757-4 
+
+67\. Nelson, J. T., Cornejo, O. E., & The Anopheles gambiae 1000 Genomes Consortium. (2021). Evolutionary implications of recombination differences across diverging populations of Anopheles. biorXiv. https://doi.org/10.1101/2021.02.04.429659 
+Müller, N. F., Ogilvie, H. A., Zhang, C., Fontaine, M. C., Amaya-Romero, J. E., Drummond, A. J., & Stadler, T. (2021). Joint inference of species histories and gene flow. biorXiv. https://doi.org/10.1101/348391 
+
+66\. Morin, P. A., Forester, B. R., Forney, K. A., Crossman, C. A., Hancock-Hanser, B. L., Robertson, K. M., Barrett-Lennard, L. G., Baird, R. W., Calambokidis, J., Gearin, P., Hanson, M. B., Schumacher, C., Harkins, T., Fontaine, M. C., Taylor, B. L., & Parsons, K. M. (2021). Population structure in a continuously distributed coastal marine species, the harbor porpoise, based on microhaplotypes derived from poor-quality samples. Mol Ecol, 30(6), 1457-1476. https://doi.org/10.1111/mec.15827 
+
+65\. Louis, M., Galimberti, M., Archer, F., Berrow, S., Brownlow, A., Fallon, R., Nykanen, M., O'Brien, J., Roberston, K. M., Rosel, P. E., Simon-Bouhet, B., Wegmann, D., Fontaine, M. C., Foote, A. D., & Gaggiotti, O. E. (2021). Selection on ancestral genetic variation fuels repeated ecotype formation in bottlenose dolphins. Sci Adv, 7(44), eabg1245. https://doi.org/10.1126/sciadv.abg1245 
+
+64\. Grau-Bové, X., Lucas, E., Pipini, D., Rippon, E., van ‘t Hof, A. E., Constant, E., Dadzie, S., Egyir-Yawson, A., Essandoh, J., Chabi, J., Djogbénou, L., Harding, N. J., Miles, A., Kwiatkowski, D., Donnelly, M. J., Weetman, D., & The Anopheles gambiae 1000 Genomes Consortium. (2021). Resistance to pirimiphos-methyl in West African Anopheles is spreading via duplication and introgression of the Ace1 locus. PLOS Genetics, 17(1). https://doi.org/10.1371/journal.pgen.1009253 
+
+63\. Fontaine, M. C., Labbe, F., Dussert, Y., Deliere, L., Richart-Cervera, S., Giraud, T., & Delmotte, F. (2021). Europe as a bridgehead in the worldwide invasion history of grapevine downy mildew, Plasmopara viticola. Curr Biol, 31(10), 2155-2166 e2154. https://doi.org/10.1016/j.cub.2021.03.009 
+
+62\. Eriksson, B. K., Yanos, C., Bourlat, S. J., Donadi, S., Fontaine, M. C., Hansen, J. P., Jakubavičiūtė, E., Kiragosyan, K., Maan, M. E., Merilä, J., Austin, Å. N., Olsson, J., Reiss, K., Sundblad, G., Bergström, U., & Eklöf, J. S. (2021). Habitat segregation of plate phenotypes in a rapidly expanding population of three‐spined stickleback. Ecosphere, 12(6), e03561. https://doi.org/10.1002/ecs2.3561 
+
+61\. Daron, J., Boissiere, A., Boundenga, L., Ngoubangoye, B., Houze, S., Arnathau, C., Sidobre, C., Trape, J. F., Durand, P., Renaud, F., Fontaine, M. C., Prugnolle, F., & Rougeron, V. (2021). Population genomic evidence of Plasmodium vivax Southeast Asian origin. Sci Adv, 7(18), abc3713. https://doi.org/10.1126/sciadv.abc3713 
+
+60\. Clarkson, C. S., Miles, A., Harding, N. J., O’Reilly, A. O., Weetman, D., Kwiatkowski, D., Donnelly, M. J., & The Anopheles gambiae 1000 Genomes Consortium. (2021). The genetic architecture of target‐site resistance to pyrethroid insecticides in the African malaria vectors Anopheles gambiae and Anopheles coluzzii. Molecular Ecology, 30(21), 5303-5317. https://doi.org/10.1111/mec.15845 
+
+59\. Ben Chehida, Y., Loughnane, R., Thumloup, J., Kaschner, K., Garilao, C., Rosel, P. E., & Fontaine, M. C. (2021). No leading-edge effect in North Atlantic harbor porpoises: Evolutionary and conservation implications. Evol Appl, 14(6), 1588-1611. https://doi.org/10.1111/eva.13227 
+
 
 ## *2020*
 58\. **[Genome variation and population structure among 1142 mosquitoes of the African malaria vector species Anopheles gambiae and Anopheles coluzzii.](https://doi.org/10.1101/gr.262790.120 )**
