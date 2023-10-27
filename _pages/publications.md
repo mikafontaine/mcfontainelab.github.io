@@ -10,40 +10,42 @@ author_profile: true
 
 ## *2023*
 
-81\. Ben Chehida, Y., Stelwagen, T., Hoekendijk, J. P. A., Ferreira, M., Eira, C., Pereira, A. T., Nicolau, L., Thumloup, J., & Fontaine, M. C. (2023). Harbor porpoise losing its edges: genetic time series suggests a rapid population decline in Iberian waters over the last 30 years. Ecology and Evolution, minor revisions. https://doi.org/10.1101/2021.08.19.456945 
+83\. Ben Chehida, Y., Stelwagen, T., Hoekendijk, J. P. A., Ferreira, M., Eira, C., Pereira, A. T., Nicolau, L., Thumloup, J., & Fontaine, M. C. (2023). Harbor porpoise losing its edges: genetic time series suggests a rapid population decline in Iberian waters over the last 30 years. Ecology and Evolution, minor revisions. https://doi.org/10.1101/2021.08.19.456945 
 
-80\. Romero, J. E. A., Chenal, C., Chehida, Y. B., Miles, A., Clarkson, C. S., Pedergnana, V., Wertheim, B., & Fontaine, M. C. (2023). Mitochondrial variation in Anopheles gambiae and An. coluzzii: phylogeographic legacy of species isolation and mito-nuclear associations with metabolic resistance to pathogens and insecticides. Under revision in GBE. Preprint biorXiv. https://doi.org/10.1101/2023.07.18.549472 
+82\. Romero, J. E. A., Chenal, C., Chehida, Y. B., Miles, A., Clarkson, C. S., Pedergnana, V., Wertheim, B., & Fontaine, M. C. (2023). Mitochondrial variation in Anopheles gambiae and An. coluzzii: phylogeographic legacy of species isolation and mito-nuclear associations with metabolic resistance to pathogens and insecticides. Under revision in GBE. Preprint biorXiv. https://doi.org/10.1101/2023.07.18.549472 
 
-79\. Crossman, C. A., Fontaine, M. C., & Frasier, T. R. (2023). A comparison of genomic diversity and demographic history of the North Atlantic and Southwest Atlantic southern right whales. Mol Ecol, In press. https://doi.org/10.1111/mec.17099 
+81\. Crossman, C. A., Fontaine, M. C., & Frasier, T. R. (2023). A comparison of genomic diversity and demographic history of the North Atlantic and Southwest Atlantic southern right whales. Mol Ecol, In press. https://doi.org/10.1111/mec.17099 
 
-78\. Kyriazis, C. C., Robinson, J. A., Nigenda-Morales, S. F., Beichman, A. C., Rojas-Bracho, L., Robertson, K. M., Fontaine, M. C., Wayne, R. K., Taylor, B. L., Lohmueller, K. E., & Morin, P. A. (2023). Models based on best-available information support a low inbreeding load and potential for recovery in the vaquita. Heredity, In press. https://doi.org/10.1038/s41437-023-00608-7 
+80\. Kyriazis, C. C., Robinson, J. A., Nigenda-Morales, S. F., Beichman, A. C., Rojas-Bracho, L., Robertson, K. M., Fontaine, M. C., Wayne, R. K., Taylor, B. L., Lohmueller, K. E., & Morin, P. A. (2023). Models based on best-available information support a low inbreeding load and potential for recovery in the vaquita. Heredity, In press. https://doi.org/10.1038/s41437-023-00608-7 
 
-77\. Lefebvre, M. J. M., Daron, J., Legrand, E., Fontaine, M. C., Rougeron, V., & Prugnolle, F. (2023). Population genomic evidence of adaptive response during the invasion history of Plasmodium falciparum in the Americas. Molecular Biology and Evolution. https://doi.org/https://doi.org/10.1093/molbev/msad082 
+79\. Lefebvre, M. J. M., Daron, J., Legrand, E., Fontaine, M. C., Rougeron, V., & Prugnolle, F. (2023). Population genomic evidence of adaptive response during the invasion history of Plasmodium falciparum in the Americas. Molecular Biology and Evolution. https://doi.org/https://doi.org/10.1093/molbev/msad082 
 
-76\. Louis, M., Korlević, P., Nykänen, M., Archer, F., Berrow, S., Brownlow, A., Lorenzen, E. D., O’Brien, J., Post, K., Racimo, F., Rogan, E., Rosel, P. E., Sinding, M. H. S., van der Es, H., Wales, N., Fontaine, M. C., Gaggiotti, O., & Foote, A. D. (2023). Ancient dolphin genomes reveal rapid repeated adaptation to coastal waters. Nature Communications. https://doi.org/10.1038/s41467-023-39532-z 
+78\. Louis, M., Korlević, P., Nykänen, M., Archer, F., Berrow, S., Brownlow, A., Lorenzen, E. D., O’Brien, J., Post, K., Racimo, F., Rogan, E., Rosel, P. E., Sinding, M. H. S., van der Es, H., Wales, N., Fontaine, M. C., Gaggiotti, O., & Foote, A. D. (2023). Ancient dolphin genomes reveal rapid repeated adaptation to coastal waters. Nature Communications. https://doi.org/10.1038/s41467-023-39532-z 
 
-75\. Small, S. T., Costantini, C., Sagnon, N. F., Guelbeogo, M. W., Emrich, S. J., Kern, A. D., Fontaine, M. C., & Besansky, N. J. (2023). Standing genetic variation and chromosome differences drove rapid ecotype formation in a major malaria vector. Proceedings of the National Academy of Sciences, 120(11), e2219835120. https://doi.org/10.1073/pnas.2219835120 
+77\. Small, S. T., Costantini, C., Sagnon, N. F., Guelbeogo, M. W., Emrich, S. J., Kern, A. D., Fontaine, M. C., & Besansky, N. J. (2023). Standing genetic variation and chromosome differences drove rapid ecotype formation in a major malaria vector. Proceedings of the National Academy of Sciences, 120(11), e2219835120. https://doi.org/10.1073/pnas.2219835120 
 
 ## *2022*
-74\. Rougeron, V., Daron, J., Fontaine, M. C., & Prugnolle, F. (2022). Evolutionary history of Plasmodium vivax and Plasmodium simium in the Americas. Malar J, 21(1), 141. https://doi.org/10.1186/s12936-022-04132-7 
+76\. Rougeron, V., Daron, J., Fontaine, M. C., & Prugnolle, F. (2022). Evolutionary history of Plasmodium vivax and Plasmodium simium in the Americas. Malar J, 21(1), 141. https://doi.org/10.1186/s12936-022-04132-7 
 
-73\. Robinson, J. A., Kyriazis, C. C., Nigenda-Morales, S. F., Beichman, A. C., Rojas-Bracho, L., Robertson, K. M., Fontaine, M. C., Wayne, R. K., Lohmueller, K. E., Taylor, B. L., & Morin, P. A. (2022). The critically endangered vaquita is not doomed to extinction by inbreeding depression. Science, 376(6593), 635-639. https://doi.org/10.1126/science.abm1742 
+75\. Robinson, J. A., Kyriazis, C. C., Nigenda-Morales, S. F., Beichman, A. C., Rojas-Bracho, L., Robertson, K. M., Fontaine, M. C., Wayne, R. K., Lohmueller, K. E., Taylor, B. L., & Morin, P. A. (2022). The critically endangered vaquita is not doomed to extinction by inbreeding depression. Science, 376(6593), 635-639. https://doi.org/10.1126/science.abm1742 
 
-72\. Fontaine, M. (2022). Reticulated evolution marks the rapid diversification of the Delphinoidae. Peer Community In Evolutionary Biology. https://doi.org/10.24072/pci.evolbiol.100139 
+74\. Fontaine, M. (2022). Reticulated evolution marks the rapid diversification of the Delphinoidae. Peer Community In Evolutionary Biology. https://doi.org/10.24072/pci.evolbiol.100139 
 
-71\. Conklin, J. R., Verkuil, Y. I., Battley, P. F., Hassell, C. J., Ten Horn, J., Johnson, J. A., Tomkovich, P. S., Baker, A. J., Piersma, T., & Fontaine, M. C. (2022). Global flyway evolution in red knots Calidris canutus and genetic evidence for a Nearctic refugium. Mol Ecol, 31(7), 2124-2139. https://doi.org/10.1111/mec.16379 
+73\. Conklin, J. R., Verkuil, Y. I., Battley, P. F., Hassell, C. J., Ten Horn, J., Johnson, J. A., Tomkovich, P. S., Baker, A. J., Piersma, T., & Fontaine, M. C. (2022). Global flyway evolution in red knots Calidris canutus and genetic evidence for a Nearctic refugium. Mol Ecol, 31(7), 2124-2139. https://doi.org/10.1111/mec.16379 
 
-70\. Brinker, P., Chen, F., Ben Chehida, Y., Beukeboom, L. W., Fontaine, M. C., & Falcao Salles, J. (2022). Microbiome composition is shaped by geography and population structure in the parasitic wasp Asobara japonica, but not in the presence of the endosymbiont Wolbachia. Mol Ecol, accepted. https://doi.org/10.1111/mec.16699 
+72\. Brinker, P., Chen, F., Ben Chehida, Y., Beukeboom, L. W., Fontaine, M. C., & Falcao Salles, J. (2022). Microbiome composition is shaped by geography and population structure in the parasitic wasp Asobara japonica, but not in the presence of the endosymbiont Wolbachia. Mol Ecol, accepted. https://doi.org/10.1111/mec.16699 
 
 
 ## *2021*
-69\. Yanos, C. L., Haanstra, E. P., Colgan Carey, F., Passmore, S. A., Eklof, J. S., Bergstrom, U., Hansen, J. P., Fontaine, M. C., Maan, M. E., & Eriksson, B. K. (2021). Predator biomass and vegetation influence the coastal distribution of threespine stickleback morphotypes. Ecol Evol, 11(18), 12485-12496. https://doi.org/10.1002/ece3.7993 
+71\. Yanos, C. L., Haanstra, E. P., Colgan Carey, F., Passmore, S. A., Eklof, J. S., Bergstrom, U., Hansen, J. P., Fontaine, M. C., Maan, M. E., & Eriksson, B. K. (2021). Predator biomass and vegetation influence the coastal distribution of threespine stickleback morphotypes. Ecol Evol, 11(18), 12485-12496. https://doi.org/10.1002/ece3.7993 
 
-68\. Xue, A. T., Schrider, D. R., Kern, A. D., & The Anopheles gambiae 1000 Genomes Consortium. (2021). Discovery of Ongoing Selective Sweeps within Anopheles Mosquito Populations Using Deep Learning. Molecular Biology and Evolution, 38(3), 1168-1183. https://doi.org/10.1093/molbev/msaa259 
-Wagah, M. G., Korlevic, P., Clarkson, C., Miles, A., The Anopheles gambiae 1000 Genomes Consortium, Lawniczak, M. K. N., & Makunin, A. (2021). Genetic variation at the Cyp6m2 putative insecticide resistance locus in Anopheles gambiae and Anopheles coluzzii. Malar J, 20(1), 234. https://doi.org/10.1186/s12936-021-03757-4 
+70\. Xue, A. T., Schrider, D. R., Kern, A. D., & The Anopheles gambiae 1000 Genomes Consortium. (2021). Discovery of Ongoing Selective Sweeps within Anopheles Mosquito Populations Using Deep Learning. Molecular Biology and Evolution, 38(3), 1168-1183. https://doi.org/10.1093/molbev/msaa259 
 
-67\. Nelson, J. T., Cornejo, O. E., & The Anopheles gambiae 1000 Genomes Consortium. (2021). Evolutionary implications of recombination differences across diverging populations of Anopheles. biorXiv. https://doi.org/10.1101/2021.02.04.429659 
-Müller, N. F., Ogilvie, H. A., Zhang, C., Fontaine, M. C., Amaya-Romero, J. E., Drummond, A. J., & Stadler, T. (2021). Joint inference of species histories and gene flow. biorXiv. https://doi.org/10.1101/348391 
+69\. Wagah, M. G., Korlevic, P., Clarkson, C., Miles, A., The Anopheles gambiae 1000 Genomes Consortium, Lawniczak, M. K. N., & Makunin, A. (2021). Genetic variation at the Cyp6m2 putative insecticide resistance locus in Anopheles gambiae and Anopheles coluzzii. Malar J, 20(1), 234. https://doi.org/10.1186/s12936-021-03757-4 
+
+68\. Nelson, J. T., Cornejo, O. E., & The Anopheles gambiae 1000 Genomes Consortium. (2021). Evolutionary implications of recombination differences across diverging populations of Anopheles. biorXiv. https://doi.org/10.1101/2021.02.04.429659 
+
+67\. Müller, N. F., Ogilvie, H. A., Zhang, C., Fontaine, M. C., Amaya-Romero, J. E., Drummond, A. J., & Stadler, T. (2021). Joint inference of species histories and gene flow. biorXiv. https://doi.org/10.1101/348391 
 
 66\. Morin, P. A., Forester, B. R., Forney, K. A., Crossman, C. A., Hancock-Hanser, B. L., Robertson, K. M., Barrett-Lennard, L. G., Baird, R. W., Calambokidis, J., Gearin, P., Hanson, M. B., Schumacher, C., Harkins, T., Fontaine, M. C., Taylor, B. L., & Parsons, K. M. (2021). Population structure in a continuously distributed coastal marine species, the harbor porpoise, based on microhaplotypes derived from poor-quality samples. Mol Ecol, 30(6), 1457-1476. https://doi.org/10.1111/mec.15827 
 
