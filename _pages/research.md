@@ -31,7 +31,8 @@ Related phD at GELIFES - U. Groningen: [*Complex interactions in a host-symbiont
 ### 2016: Human induced eco-evolutionary feedbacks restructure ecosystems and limit their recovery
 PIs: Klemens Eriksson, **_Michael Fontaine_** & Martine Maan
 >Declines in top-predators have enabled the threespine stickleback to increase hundred-fold in the Baltic Sea the past decade. Today, stickleback have reorganized the coastal food-web dramatically, causing algal overgrowth and decreased water quality. We hypothesize that the problems are caused by a benthic ecotype of stickleback that have adapted rapidly to the new biological conditions and thereby locked coastal areas in a societally undesirable state. The project will combine ecological field studies, behavioral experiments and population genetics to characterize the ecological and evolutionary impacts of the benthic ecotype and the underlying genetic mechanisms.
-Related PhD at GELIFES by Casey Yanos: (Eco-evolutionary dynamics in the Baltic Sea: Distribution and impact of threespine stickleback phenotypes in a changing environment)[https://research.rug.nl/en/publications/eco-evolutionary-dynamics-in-the-baltic-sea-distribution-and-impa]. doi: 10.33612/diss.192995846. (See all project results)[https://research.rug.nl/en/projects/human-induced-eco-evolutionary-feedbacks-restructure-ecosystems-a].  
+Related PhD at GELIFES by Casey Yanos: (Eco-evolutionary dynamics in the Baltic Sea: Distribution and impact of threespine stickleback phenotypes in a changing environment)[https://research.rug.nl/en/publications/eco-evolutionary-dynamics-in-the-baltic-sea-distribution-and-impa]. doi: 10.33612/diss.192995846.  
+(See all project results)[https://research.rug.nl/en/projects/human-induced-eco-evolutionary-feedbacks-restructure-ecosystems-a]  
 
 
 
