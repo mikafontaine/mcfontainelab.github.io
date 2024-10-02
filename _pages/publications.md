@@ -7,13 +7,13 @@ author_profile: true
 
 ## *In press & Preprints*
 
-Lefebvre, M.J.M., Degrugillier, F., Arnathau, C., Fontecha, G.A., Noya, O., Houze, S., Severini, C., Pradines, B., Berry, A., Trape, J.F., Sàenz, F.E., Prugnolle, F.†, **Fontaine, M.C.†**, Rougeron, V.† (2025). **_Genomic exploration of the complex journey of Plasmodium vivax in Latin America._** bioRrXiv. † Co-last authors.
+90\. Lefebvre, M.J.M., Degrugillier, F., Arnathau, C., Fontecha, G.A., Noya, O., Houze, S., Severini, C., Pradines, B., Berry, A., Trape, J.F., Sàenz, F.E., Prugnolle, F.†, **Fontaine, M.C.†**, Rougeron, V.† (2025). **_Genomic exploration of the complex journey of Plasmodium vivax in Latin America._** bioRrXiv. † Co-last authors.
 
-Foote, A.D., Louis, M., Alexander, A., Carroll, E.L., and **Fontaine, M.C.** (2025). **_Genomic insights into demographic and evolutionary histories._** In The Evolution of Cetacean Societies, A.D. Foote, D. Croft, E. Garland, and S. King, eds. (Chicago Press). Accepted.
+89\. Foote, A.D., Louis, M., Alexander, A., Carroll, E.L., and **Fontaine, M.C.** (2025). **_Genomic insights into demographic and evolutionary histories._** In The Evolution of Cetacean Societies, A.D. Foote, D. Croft, E. Garland, and S. King, eds. (Chicago Press). Accepted.
 
-Corley, M., Cosme, L., Armbruster, P., Sharakhova, M., Torre, A.d., Caputo, B., Pichler, V., Bega, A., Urbanelli, S., Martins, A., et al. (2024). **_Population structure of the invasive Asian tiger mosquito, Aedes albopictus, in Europe._** Authorea preprints. [10.22541/au.172683590.01925550/v1](https://www.authorea.com/doi/full/10.22541/au.172683590.01925550/v1).
+88\. Corley, M., Cosme, L., Armbruster, P., Sharakhova, M., Torre, A.d., Caputo, B., Pichler, V., Bega, A., Urbanelli, S., Martins, A., et al. (2024). **_Population structure of the invasive Asian tiger mosquito, Aedes albopictus, in Europe._** Authorea preprints. [10.22541/au.172683590.01925550/v1](https://www.authorea.com/doi/full/10.22541/au.172683590.01925550/v1).
 
-Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† (2024). **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** biorXiv. (†co-last authors). doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472)
+87\. Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† (2024). **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** biorXiv. (†co-last authors). doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472)
 
 ## *2024*
 86\. Pierce, G.J., Petitguyot, M.A.C., Gutierrez-Muñoz, P., Fariñas-Bermejo, A., Fernández-Fernández, D., Dolman, S., **Fontaine, M.C.**, Hernández-González, A., Gil, A., Read, F.L., et al. (2024). **_An endangered population of harbour porpoise Phocoena phocoena hidden in plain sight: biology, ecology and conservation of the Iberian porpoise._** Oceanography and Marine Biology - An Annual Review. doi: 10.1201/9781003477518‐1 [Open Access link](https://library.oapen.org/handle/20.500.12657/93175).
@@ -22,7 +22,7 @@ Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., N
 
 84\. Cosme, L.V., Corley, M., Johnson, T., Severson, D.W., Yan, G., Wang, X., Beebe, N., Maynard, A., Bonizzoni, M., Khorramnejad, A., et al. (2024). **_A genotyping array for the globally invasive vector mosquito, Aedes albopictus._** Parasites & Vectors 17, 106. doi:[10.1186/s13071-024-06158-z](https://doi.org/10.1186/s13071-024-06158-z).
 
-83\. Conklin, J.R., Verkuil, Y.I., Lefebvre, M.J.M., Battley, P.F., Bom, R.A., Gill, R.E., Hassell, C.J., ten Horn, J., Ruthrauff, D.R., Tibbitts, T.L., Tomkovich, P.S., Warnock, N., Piersma, T., and **Fontaine, M.C.** (2024). **_Phylogeography of bar-tailed godwits: pre-LGM structure in Beringia and westward colonization of post-glacial Europe._** Molecular Ecology. e17452. doi: [https://doi.org/10.1111/mec.17452](https://doi.org/10.1111/mec.17452)
+83\. Conklin, J.R., Verkuil, Y.I., Lefebvre, M.J.M., Battley, P.F., Bom, R.A., Gill, R.E., Hassell, C.J., ten Horn, J., Ruthrauff, D.R., Tibbitts, T.L., Tomkovich, P.S., Warnock, N., Piersma, T., and **Fontaine, M.C.** (2024). **_Phylogeography of bar-tailed godwits: pre-LGM structure in Beringia and westward colonization of post-glacial Europe._** Molecular Ecology. e17452. doi:[10.1111/mec.17452](https://doi.org/10.1111/mec.17452)
 
 ## *2023*
 
