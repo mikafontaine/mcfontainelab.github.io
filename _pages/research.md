@@ -18,6 +18,7 @@ Here is a list of the various research projects funded over the past years
 ## **_ANR GENAD_**
 
 ## **_Porpoise Genome project_**
+---  
 
 # Past research projects
 ## Adaptive Life Programme from GELIFES - U. Groningen
