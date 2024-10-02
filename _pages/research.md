@@ -5,10 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-## GALVADAP
+Here is a list of the various research projects funded over the past years
 
-## INVALBO
+### **_KIM-RIVOC GALVADAP_**
 
-## ANR HAMLET
+### **_KIM-RIVE INVALBO_**
 
-## ANR GENAD
+### **_ANR HAMLET_**
+
+### **_ANR GENAD_**
+
