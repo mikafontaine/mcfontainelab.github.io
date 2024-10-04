@@ -9,6 +9,10 @@ Here is a list of the various research projects funded over the past years
 
 # Ongoing research projects
 
+## **_MITI-CNRS - "Pépinière interdisciplinaire des Antilles françaises" (PIAF) 2024_**
+### EyWA: Evolutionary genomics of the _Aedes aegypti_ mosquitoe’s in the West indies: impact of transposable element in their Adaptation
+PIs: AS Fiston-Lavier (ISEM), **_MC Fontaine_** (MIVEGEC), D. Couvin (U. Antilles), E Permal, A Vega-Rua, E. Calvbel (IP Guwadeloupe)
+
 ## **_KIM-RIVOC GALVADAP_**
 
 ## **_KIM-RIVE INVALBO_**
