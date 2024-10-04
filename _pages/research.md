@@ -13,7 +13,7 @@ Here is a list of the various research projects funded over the past years
 
 <details open> 
     <summary>
-    ### EyWA: Evolutionary genomics of the _Aedes aegypti_ mosquitoe’s in the West indies: impact of transposable element in their Adaptation
+    <b>EyWA: Evolutionary genomics of the _Aedes aegypti_ mosquitoe’s in the West indies: impact of transposable element in their Adaptation</b>
     </summary>
 > PIs: AS Fiston-Lavier (ISEM), **_MC Fontaine_** (MIVEGEC), D. Couvin (U. Antilles), E Permal, A Vega-Rua, E. Calvbel (IP Guwadeloupe)  
 > Funded by _MITI-CNRS - "Pépinière interdisciplinaire des Antilles françaises" (PIAF) 2024_
