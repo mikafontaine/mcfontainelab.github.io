@@ -12,11 +12,12 @@ author_profile: true
 |:-:|:-:|
 |![First Image]()|![Second Image]()|
 |:-:|:-:|
-|**Margaux Lebfevre** <br> (PhD)|**Fourth Image**|
+|**Fourth Image**|**Fourth Image**|
 |![Third Image]()|![Fourth Image]()|
 
 ## Alumnii
 ### Former PhD students
+- Margaux Lebfevre (now postdoc at the Marx Planck Institute for Evolutionary Anthropology, Leipzig, Germany)
 - Clothilde Chenal (now postdoc at the Wellcome Trust Sanger Institute, Hinxton, UK)  
 - [Jorge E Amaya-Romero](https://www.hsph.harvard.edu/profile/jorge-amaya-romero/) (now postdoc at Harvard U., USA)  
 - [Yacine Ben Chehida](https://nadeau-lab.sites.sheffield.ac.uk/people) (now postdoc at U Sheffield & U York, UK)
@@ -28,8 +29,8 @@ author_profile: true
 ### Former Postdoc & visiting Scholars
 - [Josquin Daron](https://research.pasteur.fr/fr/member/josquin-daron/) (now postdoc at Institut Pasteur Paris, FR)
 - Carla Crossman (now postdoc at Dahlousi U., CA)
-- Marie Louis
-- Claudia Witzig 
+- Marie Louis (now Research Scientist at the Greenland Institute of Natural Resources)
+- Claudia Witzig (now Senior Scientist at Qiagen)
 - Federic Labbe (now permanent researcher at CIRAD)
 - Scott T Small (now postdoc at U. Oregon)
 - Jesse Conklin (now Guest researcher at GELIFES - U. Groningen)
