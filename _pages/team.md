@@ -27,13 +27,13 @@ author_profile: true
 
 
 ### Former Postdoc & visiting Scholars
-- [Josquin Daron](https://research.pasteur.fr/fr/member/josquin-daron/) (now postdoc at Institut Pasteur Paris, FR)
-- Carla Crossman (now postdoc at Dahlousi U., CA)
-- Marie Louis (now Research Scientist at the Greenland Institute of Natural Resources)
-- Claudia Witzig (now Senior Scientist at Qiagen)
-- Federic Labbe (now permanent researcher at CIRAD)
-- Scott T Small (now postdoc at U. Oregon)
-- Jesse Conklin (now Guest researcher at GELIFES - U. Groningen)
+- [Josquin Daron](https://research.pasteur.fr/fr/member/josquin-daron/) (join with D Ayala): now postdoc at Institut Pasteur Paris, FR
+- [Marie Louis](https://natur.gl/employees/marie-louis/?lang=en) (join with O Gaggiotti & AE Foote): now Research Scientist at the Greenland Institute of Natural Resources
+- Carla Crossman (joint with T Frasier): now postdoc at Dahlousi U. CA
+- Claudia Witzig (joint with NJ Besansky): now Senior Scientist at Qiagen
+- [Federic Labbe](https://umr-pvbmt.cirad.fr/l-unite/annuaire/labbe-frederic) (joint with NJ Besansky): now permanent researcher at CIRAD
+- Scott T Small (joint with NJ Besansky): now postdoc at U. Oregon
+- Jesse Conklin (joint with T Piersma): now Guest researcher at GELIFES - U. Groningen
 
 ### Former MSc and BSc students
 - Gabriela Blackwood (2024)
