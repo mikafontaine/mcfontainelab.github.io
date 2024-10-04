@@ -43,7 +43,7 @@ author_profile: true
 
 ---
 
-## Academic Education
+## Education
 ### French Habilitation to Supervise Research (HDR) in Life Science, Univ. Montpellier (2021–22)
 > Defended on April 8, 2022 at the IRD Occitanie plant amphitheater in Montpellier.  
 > Title: Adaptation and reticulated evolution of populations and species along the speciation.  
