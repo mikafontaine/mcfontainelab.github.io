@@ -7,9 +7,10 @@ author_profile: true
 
 Here is a list of the various research projects funded over the past years
 
-# Ongoing research projects
+# <u>Ongoing research projects<\>
 
 ## Evolutionary genomics & bioinformatics of vector Mosquitoes (_Anopheles sp_, _Aedes albopictus_, _Aedes aegypti_)
+
 ### EyWA: Evolutionary genomics of the _Aedes aegypti_ mosquitoe’s in the West indies: impact of transposable element in their Adaptation
 > PIs: AS Fiston-Lavier (ISEM), **_MC Fontaine_** (MIVEGEC), D. Couvin (U. Antilles), E Permal, A Vega-Rua, E. Calvbel (IP Guwadeloupe)  
 > Funded by **_MITI-CNRS - "Pépinière interdisciplinaire des Antilles françaises" (PIAF) 2024_**
@@ -22,6 +23,8 @@ Here is a list of the various research projects funded over the past years
 > PIs: **_MC Fontaine_** (MIVEGEC - U. Montpellier, CNRS, IRD ) & Sebastien Boyer (Pasteur Institute Cambodia)  
 > _Keywords_: Aedes albopictus ; biological invasion ; genomics of local adaptation ; urban vs natural habitat; Phnom Penh (Cambodia)  
 > Funded by the Key Initiative MUSE Risks & Vectors (U. Montpellier)  
+
+---
 
 ## Evolutionary genomics of _Plasmodium_
 
@@ -38,6 +41,8 @@ Here is a list of the various research projects funded over the past years
 ### **_OrA: Origin and Adaptation of parasites to new environments: the case of monkey malarial agents in French Guiana_**
 > PIs: Virginie Rougeron, **_Michael C. Fontaine_**, Olivier Duron, Benoit De Thoisy  
 > Funded by the Laboratoire of excellence CEBA (Center for the study of biodiversity in Amazonia)
+
+---
 
 ## Evolutionary & Conservation genomics of marine mammals (porpoises especially)
 ### **_Porpoise Genome project_**
