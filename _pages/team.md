@@ -8,7 +8,7 @@ author_profile: true
 ## Current members
 
 |:-:|:-:|
-|**Michael C. Fontaine** <br> (PI)|**Loic Talignani** <br> (Bioinformatician)|
+|**Michael C. Fontaine** <br> (PI - CNRS Research associate and Associate Prof. at GELIFES)|**Loic Talignani** <br> (Bioinformatician)|
 |:-:|:-:|
 |![First Image]()|![Second Image]()|
 |:-:|:-:|
