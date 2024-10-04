@@ -11,13 +11,9 @@ Here is a list of the various research projects funded over the past years
 
 ## Evolutionary genomics & bioinformatics of vector Mosquitoes (_Anopheles sp_, _Aedes albopictus_, _Aedes aegypti_)
 
-<details open> 
-    <summary>
-    <b>EyWA: Evolutionary genomics of the _Aedes aegypti_ mosquitoe’s in the West indies: impact of transposable element in their Adaptation</b>
-    </summary>
+### EyWA: Evolutionary genomics of the _Aedes aegypti_ mosquitoe’s in the West indies: impact of transposable element in their Adaptation  
 > PIs: AS Fiston-Lavier (ISEM), **_MC Fontaine_** (MIVEGEC), D. Couvin (U. Antilles), E Permal, A Vega-Rua, E. Calvbel (IP Guwadeloupe)  
-> Funded by _MITI-CNRS - "Pépinière interdisciplinaire des Antilles françaises" (PIAF) 2024_
-</details>
+> Funded by MITI-CNRS - _"Pépinière interdisciplinaire des Antilles françaises" (PIAF) 2024_
 
 ### **_Défi clé - RIVOC _GALVA2DAPT_: Genomic Analyses based on Long-read Variation in _Aedes albopictus_ ADAPTation_**
 > PIs: **_MC Fontaine_**, AS Fiston-Lavier, L Orlando, C Paupy, C Costantini  
