@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a list of the various research projects funded over the past years
 
-# <u>Ongoing research projects<\>
+# <u>Ongoing research projects
 
 ## Evolutionary genomics & bioinformatics of vector Mosquitoes (_Anopheles sp_, _Aedes albopictus_, _Aedes aegypti_)
 
