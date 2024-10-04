@@ -8,11 +8,11 @@ author_profile: true
 ## Current members
 
 |:-:|:-:|
-|**Michael C. Fontaine** <\n> (Group leader)|**Loic Talignani** <\n> (Bioinformatician)|
+|**Michael C. Fontaine** <br> (Group leader)|**Loic Talignani** <br> (Bioinformatician)|
 |:-:|:-:|
 |![First Image]()|![Second Image]()|
 |:-:|:-:|
-|**Margaux Lebfevre** (PhD student)|**Fourth Image**|
+|**Margaux Lebfevre** (PhD)|**Fourth Image**|
 |![Third Image]()|![Fourth Image]()|
 
 ## Alumnii
