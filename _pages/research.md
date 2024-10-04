@@ -13,9 +13,15 @@ Here is a list of the various research projects funded over the past years
 > PIs: AS Fiston-Lavier (ISEM), **_MC Fontaine_** (MIVEGEC), D. Couvin (U. Antilles), E Permal, A Vega-Rua, E. Calvbel (IP Guwadeloupe)  
 > Funded by **_MITI-CNRS - "Pépinière interdisciplinaire des Antilles françaises" (PIAF) 2024_**
 
-## **_KIM-RIVOC GALVADAP_**
+## **_Défi clé - RIVOC _GALVA2DAPT_: Genomic Analyses based on Long-read Variation in Aedes albopictus
+  ADAPTation_**
+> PIs: **_MC Fontaine_**, AS Fiston-Lavier, L Orlando, C Paupy, C Costantini
+> Funded by the "_Défis cles Région Occitanie - Risque infectieux et vecteurs (RIVOC)- Occitanie_"
 
 ## **_KIM-RIVE INVALBO_**
+>PIs: **_MC Fontaine_** (MIVEGEC - U. Montpellier, CNRS, IRD ) & Sebastien Boyer (Pasteur Institute Cambodia)  
+> _Keywords_: Aedes albopictus ; biological invasion ; genomics of local adaptation ; urban vs natural habitat; Phnom Penh (Cambodia)  
+> Funded by the Key Initiative MUSE Risks & Vectors (U. Montpellier)
 
 ## **_ANR HAMLET_**
 
