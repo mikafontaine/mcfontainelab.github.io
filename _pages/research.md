@@ -13,24 +13,37 @@ Here is a list of the various research projects funded over the past years
 > PIs: AS Fiston-Lavier (ISEM), **_MC Fontaine_** (MIVEGEC), D. Couvin (U. Antilles), E Permal, A Vega-Rua, E. Calvbel (IP Guwadeloupe)  
 > Funded by **_MITI-CNRS - "Pépinière interdisciplinaire des Antilles françaises" (PIAF) 2024_**
 
-## **_Défi clé - RIVOC _GALVA2DAPT_: Genomic Analyses based on Long-read Variation in Aedes albopictus
-  ADAPTation_**
-> PIs: **_MC Fontaine_**, AS Fiston-Lavier, L Orlando, C Paupy, C Costantini
-> Funded by the "_Défis cles Région Occitanie - Risque infectieux et vecteurs (RIVOC)- Occitanie_"
+## **_Défi clé - RIVOC _GALVA2DAPT_: Genomic Analyses based on Long-read Variation in _Aedes albopictus_ ADAPTation_**
+> PIs: **_MC Fontaine_**, AS Fiston-Lavier, L Orlando, C Paupy, C Costantini  
+> Funded by the "_Défis cles Région Occitanie - Risque infectieux et vecteurs (RIVOC)- Occitanie_"  
 
 ## **_KIM-RIVE INVALBO_**
 >PIs: **_MC Fontaine_** (MIVEGEC - U. Montpellier, CNRS, IRD ) & Sebastien Boyer (Pasteur Institute Cambodia)  
 > _Keywords_: Aedes albopictus ; biological invasion ; genomics of local adaptation ; urban vs natural habitat; Phnom Penh (Cambodia)  
-> Funded by the Key Initiative MUSE Risks & Vectors (U. Montpellier)
+> Funded by the Key Initiative MUSE Risks & Vectors (U. Montpellier)  
 
-## **_ANR HAMLET_**
+## **_ANR HAMLET: To Die, To Sleep: Biology and Evolution of Dormancy in Avian Malaria Parasites_**
+> PI: Ana Rivero (MIVEGEC)  
+> Partners: C Loiseau (MIVEGEC), **_MC Fontaine_** (MIVEGEC), A Talman(MIVEGEC), S Gandon (CEFE)  
+> Funded by the French National Research Agency (ANR) 
 
-## **_ANR GENAD_**
+## **_ANR GENAD: Genetic adaptation of parasites to new environments: Plasmodium vivax in Americas_**
+> PI: V Rougeron  
+> Partners: **_MC Fontaine_**, F Prugnol  
+> Funded by the French National Research Agency (ANR)  
+
+## **_OrA: Origin and Adaptation of parasites to new environments: the case of monkey malarial agents in French Guiana_**
+> PIs: Virginie Rougeron, **_Michael C. Fontaine_**, Olivier Duron, Benoit De Thoisy  
+> Funded by the Laboratoire of excellence CEBA (Center for the study of biodiversity in Amazonia)
 
 ## **_Porpoise Genome project_**
+
 ---  
 
 # Past research projects
+
+## NWO
+
 ## Adaptive Life Programme from GELIFES - U. Groningen
 ### 2017: How species of malaria vector mosquitoes emerged and evolved in the Anopheles gambiae complex
 PIs: **_Michael Fontaine_**, Sander van Doorn, & Bregje Wertheim  
