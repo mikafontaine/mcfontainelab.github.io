@@ -49,7 +49,7 @@ Here is a list of the various research projects funded over the past years
 
 ---  
 
-# Past research projects
+# <u>Past research projects
 
 ## NWO
 
