@@ -27,8 +27,8 @@ author_profile: true
 - Josquin Daron (now postdoc at Institut Pasteur Paris, FR)
 - Carla Crossman (now postdoc at Dahlousi U., CA)
 - Jesse Conklin
-- Federic Labbé
-- Scott T Small
+- Federic Labbé (now permanent researcher at CIRAD)
+- Scott T Small 
 
 ### Former MSc students
 
