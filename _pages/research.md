@@ -9,34 +9,38 @@ Here is a list of the various research projects funded over the past years
 
 # Ongoing research projects
 
-## EyWA: Evolutionary genomics of the _Aedes aegypti_ mosquitoe’s in the West indies: impact of transposable element in their Adaptation
+## Genomics of Mosquitoes (_Anopheles sp_, _Aedes albopictus_, _Aedes aegypti_)
+### EyWA: Evolutionary genomics of the _Aedes aegypti_ mosquitoe’s in the West indies: impact of transposable element in their Adaptation
 > PIs: AS Fiston-Lavier (ISEM), **_MC Fontaine_** (MIVEGEC), D. Couvin (U. Antilles), E Permal, A Vega-Rua, E. Calvbel (IP Guwadeloupe)  
 > Funded by **_MITI-CNRS - "Pépinière interdisciplinaire des Antilles françaises" (PIAF) 2024_**
 
-## **_Défi clé - RIVOC _GALVA2DAPT_: Genomic Analyses based on Long-read Variation in _Aedes albopictus_ ADAPTation_**
+### **_Défi clé - RIVOC _GALVA2DAPT_: Genomic Analyses based on Long-read Variation in _Aedes albopictus_ ADAPTation_**
 > PIs: **_MC Fontaine_**, AS Fiston-Lavier, L Orlando, C Paupy, C Costantini  
 > Funded by the "_Défis cles Région Occitanie - Risque infectieux et vecteurs (RIVOC)- Occitanie_"  
 
-## **_KIM-RIVE INVALBO_**
->PIs: **_MC Fontaine_** (MIVEGEC - U. Montpellier, CNRS, IRD ) & Sebastien Boyer (Pasteur Institute Cambodia)  
+### **_KIM-RIVE INVALBO_**
+> PIs: **_MC Fontaine_** (MIVEGEC - U. Montpellier, CNRS, IRD ) & Sebastien Boyer (Pasteur Institute Cambodia)  
 > _Keywords_: Aedes albopictus ; biological invasion ; genomics of local adaptation ; urban vs natural habitat; Phnom Penh (Cambodia)  
 > Funded by the Key Initiative MUSE Risks & Vectors (U. Montpellier)  
 
-## **_ANR HAMLET: To Die, To Sleep: Biology and Evolution of Dormancy in Avian Malaria Parasites_**
+## Genomics of _Plasmodium_
+
+### **_ANR HAMLET: To Die, To Sleep: Biology and Evolution of Dormancy in Avian Malaria Parasites_**
 > PI: Ana Rivero (MIVEGEC)  
 > Partners: C Loiseau (MIVEGEC), **_MC Fontaine_** (MIVEGEC), A Talman(MIVEGEC), S Gandon (CEFE)  
 > Funded by the French National Research Agency (ANR) 
 
-## **_ANR GENAD: Genetic adaptation of parasites to new environments: Plasmodium vivax in Americas_**
+### **_ANR GENAD: Genetic adaptation of parasites to new environments: Plasmodium vivax in Americas_**
 > PI: V Rougeron  
 > Partners: **_MC Fontaine_**, F Prugnol  
 > Funded by the French National Research Agency (ANR)  
 
-## **_OrA: Origin and Adaptation of parasites to new environments: the case of monkey malarial agents in French Guiana_**
+### **_OrA: Origin and Adaptation of parasites to new environments: the case of monkey malarial agents in French Guiana_**
 > PIs: Virginie Rougeron, **_Michael C. Fontaine_**, Olivier Duron, Benoit De Thoisy  
 > Funded by the Laboratoire of excellence CEBA (Center for the study of biodiversity in Amazonia)
 
-## **_Porpoise Genome project_**
+## Evolutionary & Conservation genomics of marine mammals (porpoises especially)
+### **_Porpoise Genome project_**
 
 ---  
 
