@@ -5,17 +5,17 @@ permalink: /team/
 author_profile: true
 ---
 
-# Current members
+## Current members
 
 |:-:|:-:|
-|**Michael C. Fontaine**|**Loic Talignani** (Bioinformatician)|
+|**Michael C. Fontaine** <\n> (Group leader)|**Loic Talignani** <\n> (Bioinformatician)|
 |:-:|:-:|
 |![First Image]()|![Second Image]()|
 |:-:|:-:|
 |**Margaux Lebfevre** (PhD student)|**Fourth Image**|
 |![Third Image]()|![Fourth Image]()|
 
-# Alumnii
+## Alumnii
 ### Former PhD students
 - Clothilde Chenal (now postdoc at the Wellcome Trust Sanger Institute)  
 - Jorge E Amaya-Romero (now postdoc at Harvard U.)  
