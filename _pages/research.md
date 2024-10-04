@@ -15,7 +15,7 @@ Here is a list of the various research projects funded over the past years
 > PIs: AS Fiston-Lavier (ISEM), **_MC Fontaine_** (MIVEGEC), D. Couvin (U. Antilles), E Permal, A Vega-Rua, E. Calvbel (IP Guwadeloupe)  
 > Funded by MITI-CNRS - _"Pépinière interdisciplinaire des Antilles françaises" (PIAF) 2024_
 
-### **_Défi clé - RIVOC _GALVA2DAPT_: Genomic Analyses based on Long-read Variation in _Aedes albopictus_ ADAPTation_**
+### GALVA2DAPT_: Genomic Analyses based on Long-read Variation in Aedes albopictus ADAPTation
 > PIs: **_MC Fontaine_**, AS Fiston-Lavier, L Orlando, C Paupy, C Costantini  
 > Funded by the "_Défis cles Région Occitanie - Risque infectieux et vecteurs (RIVOC)- Occitanie_"  
 
