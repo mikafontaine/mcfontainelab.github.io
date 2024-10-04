@@ -35,7 +35,7 @@ author_profile: true
 - Scott T Small (now postdoc at U. Oregon)
 - Jesse Conklin (now Guest researcher at GELIFES - U. Groningen)
 
-### Former MSc students
+### Former MSc and BSc students
 - Gabriela Blackwood (2024)
 - Adeyemi Akinade (2023/24)
 - Paulina G. Nunez (2022, now PhD at the Centre for Genomic Resources U. Barcelona)
@@ -62,3 +62,7 @@ author_profile: true
 - Ludovic LeRenard (2010/11)
 - Mathilde Paré (2007/08)
 - Kathleen Roland (2014) 
+- Isabelle Calves 
+- Astrid Jacomme 
+- Tjibe Stelwagen 
+- Franka Wijgaarden 
