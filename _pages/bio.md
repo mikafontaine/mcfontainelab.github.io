@@ -44,16 +44,16 @@ author_profile: true
 ---
 
 ## Education
-### French Habilitation to Supervise Research (HDR) in Life Science, Univ. Montpellier (2021–22)
+### French Habilitation to Supervise Research (HDR) in Life Science, U. Montpellier (2021–22)
 > Defended on April 8, 2022 at the IRD Occitanie plant amphitheater in Montpellier.  
 > Title: Adaptation and reticulated evolution of populations and species along the speciation.  
 > Jury: Pr. Stéphanie MANEL (president), Dr. Mathieu GAUTHIER, Dr. Frédéric AUSTERLITZ (examinator), Dr. Nicolas BIERNE (examinator), Pr. Xavier VEKEMANS (examinator).
 
-### Supervising phD students for PI’s. Professional training for researchers at the University of Groningen (2015).
+### Supervising phD students for PI’s. Professional training for researchers at U. Groningen (2015).
 
-### Leadership and Management Skills for PI’s. Professional training for researchers at the University of Groningen (2015).
+### Leadership and Management Skills for PI’s. Professional training for researchers at U. Groningen (2015).
 
-### PhD in Life Science, Univ. Liège, Belgium (2003–08)
+### PhD in Life Science, U. Liège, Belgium (2003–08)
 > Defended with the highest honors (Cum Laude) on March 6, 2008.  
 > Title: Structure and evolution of harbor porpoise populations in Western Palearctic waters.  
 > Lab: Centre de Biologie et de Gestion des Populations. UMR CBGP–INRA (Montferrier-sur-Lez, France) et Laboratoire d’Océanologie (U. Liège, Belgique).  
