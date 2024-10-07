@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "inprepResearch"
+permalink: /inprep_research/
 author_profile: true
 ---
 
