@@ -15,6 +15,10 @@ author_profile: true
 
 87\. Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† (2024). **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** biorXiv. (†co-last authors). doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472).
 
+## *2025*
+
+
+
 ## *2024*
 86\. Pierce, G.J., Petitguyot, M.A.C., Gutierrez-Muñoz, P., Fariñas-Bermejo, A., Fernández-Fernández, D., Dolman, S., **Fontaine, M.C.**, Hernández-González, A., Gil, A., Read, F.L., et al. (2024). **_An endangered population of harbour porpoise Phocoena phocoena hidden in plain sight: biology, ecology and conservation of the Iberian porpoise._** Oceanography and Marine Biology - An Annual Review. doi: 10.1201/9781003477518‐1 [Open Access link](https://library.oapen.org/handle/20.500.12657/93175).
 
