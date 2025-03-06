@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## *Preprints & forthcomings*
---
+---
 94\. Chenal, C., Marco, C., Sabot, F., Clarkson, C. S., Miles, A., Simard, F., Costantini, C., Fiston-Lavier, A.-S., & **Fontaine, M. C.**  **_Pangenomic variations and differentiation between the two African malaria vector sister species Anopheles gambiae and Anopheles coluzzii._** bioRrXiv. 
 
 93\.Carrasco-Valenzuela, T., Marino, A., Storer, J., Bonnici, I., Mazzoni, C. J., **Fontaine, M. C.**, Haudry, A., Boulesteix, M., & Fiston-Lavier, A.-S. **_Manual versus automatic annotation of transposable elements: case studies in Drosophila melanogaster and Aedes albopictus, balancing accuracy and biological relevance._** biorXiv. doi:[10.1101/2025.01.10.632341](https://doi.org/10.1101/2025.01.10.632341)
@@ -18,7 +18,7 @@ author_profile: true
 90\. Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** biorXiv. (†co-last authors). doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472).
 
 ## *2025*
---
+---
 89\. Foote, A.D., Louis, M., Alexander, A., Carroll, E.L., and **Fontaine, M.C.** (2025). **_Genomic insights into demographic and evolutionary histories._** In The Evolution of Cetacean Societies, A.D. Foote, D. Croft, E. Garland, and S. King, eds. (Chicago Press). In press.
 
 88\. Corley, M., Cosme, L., Armbruster, P., Sharakhova, M., Torre, A.d., Caputo, B., Pichler, V., Bega, A., Urbanelli, S., Martins, A., et al. (2024). **_Population structure of the invasive Asian tiger mosquito, Aedes albopictus, in Europe._** _Ecology and Evolution_, In press. Authorea preprints [10.22541/au.172683590.01925550/v1](https://www.authorea.com/doi/full/10.22541/au.172683590.01925550/v1).
