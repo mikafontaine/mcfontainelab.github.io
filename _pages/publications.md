@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## *Preprints & forthcomings*
----
+
 94\. Chenal, C., Marco, C., Sabot, F., Clarkson, C. S., Miles, A., Simard, F., Costantini, C., Fiston-Lavier, A.-S., & **Fontaine, M. C.**  **_Pangenomic variations and differentiation between the two African malaria vector sister species Anopheles gambiae and Anopheles coluzzii._** bioRrXiv. 
 
-93\.Carrasco-Valenzuela, T., Marino, A., Storer, J., Bonnici, I., Mazzoni, C. J., **Fontaine, M. C.**, Haudry, A., Boulesteix, M., & Fiston-Lavier, A.-S. **_Manual versus automatic annotation of transposable elements: case studies in Drosophila melanogaster and Aedes albopictus, balancing accuracy and biological relevance._** biorXiv. doi:[10.1101/2025.01.10.632341](https://doi.org/10.1101/2025.01.10.632341)
+93\. Carrasco-Valenzuela, T., Marino, A., Storer, J., Bonnici, I., Mazzoni, C. J., **Fontaine, M. C.**, Haudry, A., Boulesteix, M., & Fiston-Lavier, A.-S. **_Manual versus automatic annotation of transposable elements: case studies in Drosophila melanogaster and Aedes albopictus, balancing accuracy and biological relevance._** biorXiv. doi:[10.1101/2025.01.10.632341](https://doi.org/10.1101/2025.01.10.632341)
 
 92\. McCann, R. S., Courneya, J.-P., Donnelly, M. J., Laufer, M. K., Mzilahowa, T., Stewart, K., Agossa, F., Tezzo, F. W. s., Miles, A., Takala-Harrison, S., O’Connor, T. D., & The Ag1000G Consortium. **_Variation in spatial population structure in the Anopheles gambiae species complex._** bioRrXiv. [https://doi.org/10.1101/2024.05.26.595955](https://doi.org/10.1101/2024.05.26.595955) 
 
@@ -18,7 +18,6 @@ author_profile: true
 90\. Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** biorXiv. (†co-last authors). doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472).
 
 ## *2025*
----
 89\. Foote, A.D., Louis, M., Alexander, A., Carroll, E.L., and **Fontaine, M.C.** (2025). **_Genomic insights into demographic and evolutionary histories._** In The Evolution of Cetacean Societies, A.D. Foote, D. Croft, E. Garland, and S. King, eds. (Chicago Press). In press.
 
 88\. Corley, M., Cosme, L., Armbruster, P., Sharakhova, M., Torre, A.d., Caputo, B., Pichler, V., Bega, A., Urbanelli, S., Martins, A., et al. (2024). **_Population structure of the invasive Asian tiger mosquito, Aedes albopictus, in Europe._** _Ecology and Evolution_, In press. Authorea preprints [10.22541/au.172683590.01925550/v1](https://www.authorea.com/doi/full/10.22541/au.172683590.01925550/v1).
@@ -40,26 +39,26 @@ author_profile: true
 
 ## *2023*
 
-81\. Ben Chehida, Y., Stelwagen, T., Hoekendijk, J.P.A., Ferreira, M., Eira, C., Pereira, A.T., Nicolau, L., Thumloup, J., and **Fontaine, M.C.** (2023). **_Harbor porpoise losing its edges: genetic time series suggests a rapid population decline in Iberian waters over the last 30 years._** Ecology and Evolution 13, e10819. doi:[10.1002/ece3.10819](https://doi.org/10.1002/ece3.10819)
+81\. Ben Chehida, Y., Stelwagen, T., Hoekendijk, J.P.A., Ferreira, M., Eira, C., Pereira, A.T., Nicolau, L., Thumloup, J., and **Fontaine, M.C.** (2023). **_Harbor porpoise losing its edges: genetic time series suggests a rapid population decline in Iberian waters over the last 30 years._** _Ecology & Evolution_ 13, e10819. doi:[10.1002/ece3.10819](https://doi.org/10.1002/ece3.10819)
 
-80\. Kyriazis, C.C., Robinson, J.A., Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., **Fontaine, M.C.**, Wayne, R.K., Taylor, B.L., Lohmueller, K.E., and Morin, P.A. (2023). **_Models based on best-available information support a low inbreeding load and potential for recovery in the vaquita._** Heredity 130, 183-187. doi:[10.1038/s41437-023-00608-7](https://doi.org/10.1038/s41437-023-00608-7)
+80\. Kyriazis, C.C., Robinson, J.A., Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., **Fontaine, M.C.**, Wayne, R.K., Taylor, B.L., Lohmueller, K.E., and Morin, P.A. (2023). **_Models based on best-available information support a low inbreeding load and potential for recovery in the vaquita._** _Heredity_ 130, 183-187. doi:[10.1038/s41437-023-00608-7](https://doi.org/10.1038/s41437-023-00608-7)
 
-79\. Lefebvre, M. J. M., Daron, J., Legrand, E., **Fontaine, M. C.†**, Rougeron, V.†, & Prugnolle, F.† (2023). **_Population genomic evidence of adaptive response during the invasion history of Plasmodium falciparum in the Americas._** Molecular Biology and Evolution. 40, msad082. https://doi.org/https://doi.org/10.1093/molbev/msad082 (†Co-last author)
+79\. Lefebvre, M. J. M., Daron, J., Legrand, E., **Fontaine, M. C.†**, Rougeron, V.†, & Prugnolle, F.† (2023). **_Population genomic evidence of adaptive response during the invasion history of Plasmodium falciparum in the Americas._** _Molecular Biology & Evolution_. 40, msad082. doi:[10.1093/molbev/msad082](https://doi.org/https://doi.org/10.1093/molbev/msad082) (†Co-last author)
 
-78\. Louis, M., Korlević, P., Nykänen, M., Archer, F., Berrow, S., Brownlow, A., Lorenzen, E. D., O’Brien, J., Post, K., Racimo, F., Rogan, E., Rosel, P. E., Sinding, M. H. S., van der Es, H., Wales, N., **Fontaine, M. C.†**, Gaggiotti, O.†, & Foote, A. D.† (2023). **_Ancient dolphin genomes reveal rapid repeated adaptation to coastal waters._**  Nat Commun 14, 4020. https://doi.org/10.1038/s41467-023-39532-z (†Co-last author)
+78\. Louis, M., Korlević, P., Nykänen, M., Archer, F., Berrow, S., Brownlow, A., Lorenzen, E. D., O’Brien, J., Post, K., Racimo, F., Rogan, E., Rosel, P. E., Sinding, M. H. S., van der Es, H., Wales, N., **Fontaine, M. C.†**, Gaggiotti, O.†, & Foote, A. D.† (2023). **_Ancient dolphin genomes reveal rapid repeated adaptation to coastal waters._**  _Nature Communcations_ 14, 4020. doi:[10.1038/s41467-023-39532-z](https://doi.org/10.1038/s41467-023-39532-z) (†Co-last author)
 
-77\. Small, S. T., Costantini, C., Sagnon, N. F., Guelbeogo, M. W., Emrich, S. J., Kern, A. D., **Fontaine, M. C.**, & Besansky, N. J. (2023). **_Standing genetic variation and chromosome differences drove rapid ecotype formation in a major malaria vector._** Proceedings of the National Academy of Sciences, 120(11), e2219835120. https://doi.org/10.1073/pnas.2219835120 
+77\. Small, S. T., Costantini, C., Sagnon, N. F., Guelbeogo, M. W., Emrich, S. J., Kern, A. D., **Fontaine, M. C.**, & Besansky, N. J. (2023). **_Standing genetic variation and chromosome differences drove rapid ecotype formation in a major malaria vector._** _PNAS_ 120(11), e2219835120. doi:[10.1073/pnas.2219835120](https://doi.org/10.1073/pnas.2219835120) 
 
 ## *2022*
-76\. Rougeron, V., Daron, J., **Fontaine, M. C.**, & Prugnolle, F. (2022). **_Evolutionary history of Plasmodium vivax and Plasmodium simium in the Americas._** Malar J, 21(1), 141. https://doi.org/10.1186/s12936-022-04132-7 
+76\. Rougeron, V., Daron, J., **Fontaine, M. C.**, & Prugnolle, F. (2022). **_Evolutionary history of Plasmodium vivax and Plasmodium simium in the Americas._** _Malar Journal_, 21(1), 141, doi: [10.1186/s12936-022-04132-7](https://doi.org/10.1186/s12936-022-04132-7) 
 
-75\. Robinson, J. A., Kyriazis, C. C., Nigenda-Morales, S. F., Beichman, A. C., Rojas-Bracho, L., Robertson, K. M., **Fontaine, M. C.**, Wayne, R. K., Lohmueller, K. E., Taylor, B. L., & Morin, P. A. (2022). **_The critically endangered vaquita is not doomed to extinction by inbreeding depression._** Science, 376(6593), 635-639. https://doi.org/10.1126/science.abm1742 
+75\. Robinson, J. A., Kyriazis, C. C., Nigenda-Morales, S. F., Beichman, A. C., Rojas-Bracho, L., Robertson, K. M., **Fontaine, M. C.**, Wayne, R. K., Lohmueller, K. E., Taylor, B. L., & Morin, P. A. (2022). **_The critically endangered vaquita is not doomed to extinction by inbreeding depression._** _Science_, 376(6593), 635-639. doi:[10.1126/science.abm1742](https://doi.org/10.1126/science.abm1742) 
 
-74\. Fontaine, M. (2022). **_Reticulated evolution marks the rapid diversification of the Delphinoidae._** Peer Community In Evolutionary Biology. https://doi.org/10.24072/pci.evolbiol.100139 
+74\. Fontaine, M. (2022). **_Reticulated evolution marks the rapid diversification of the Delphinoidae._** _PCI Evolutionary Biology_. doi:[10.24072/pci.evolbiol.100139](https://doi.org/10.24072/pci.evolbiol.100139) 
 
-73\. Conklin, J. R., Verkuil, Y. I., Battley, P. F., Hassell, C. J., Ten Horn, J., Johnson, J. A., Tomkovich, P. S., Baker, A. J., Piersma, T., & **Fontaine, M. C.** (2022). **_Global flyway evolution in red knots Calidris canutus and genetic evidence for a Nearctic refugium._** Mol Ecol, 31(7), 2124-2139. https://doi.org/10.1111/mec.16379 
+73\. Conklin, J. R., Verkuil, Y. I., Battley, P. F., Hassell, C. J., Ten Horn, J., Johnson, J. A., Tomkovich, P. S., Baker, A. J., Piersma, T., & **Fontaine, M. C.** (2022). **_Global flyway evolution in red knots Calidris canutus and genetic evidence for a Nearctic refugium._** _Molecular Ecology_, 31(7), 2124-2139. doi:[10.1111/mec.16379](https://doi.org/10.1111/mec.16379) 
 
-72\. Brinker, P., Chen, F., Ben Chehida, Y., Beukeboom, L. W., **Fontaine, M. C.**, & Falcao Salles, J. (2022). **_Microbiome composition is shaped by geography and population structure in the parasitic wasp Asobara japonica, but not in the presence of the endosymbiont Wolbachia._** Mol Ecol, accepted. https://doi.org/10.1111/mec.16699 
+72\. Brinker, P., Chen, F., Ben Chehida, Y., Beukeboom, L. W., **Fontaine, M. C.**, & Falcao Salles, J. (2022). **_Microbiome composition is shaped by geography and population structure in the parasitic wasp Asobara japonica, but not in the presence of the endosymbiont Wolbachia._** _Molecular Ecolology_. doi:[10.1111/mec.16699](https://doi.org/10.1111/mec.16699) 
 
 
 ## *2021*
