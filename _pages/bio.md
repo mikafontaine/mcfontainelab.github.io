@@ -8,6 +8,9 @@ author_profile: true
 ### CNRS Research Associate (since Nov.2018)
 > UMR MIVEGEC (IRD224-CNRS5290-UM). Maladies Infectieuses et Vecteurs: Ecologie, Génétique, Evolution et Contrôle, Montpellier France.
 
+### Honorary professor affiliated with GELIFES, U. Groningen (NL) (since 2019) 
+> Genomics research in ecology and evolution
+
 ### Assistant professor, GELIFES, U. Groningen (NL) (2014-18) 
 > Genomics research in ecology and evolution
 > Teaching (30%)

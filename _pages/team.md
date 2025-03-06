@@ -7,14 +7,10 @@ author_profile: true
 
 ## Current members
   
-|:-:|:-:|
-|**Michael C. Fontaine** <br> (PI - CNRS researcher and Associate Prof. at GELIFES)|**Loic Talignani** <br> (Bioinformatician)|
-|:-:|:-:|
-|![First Image]()|![Second Image]()|
-|:-:|:-:|
-|**Fourth Image**|**Fourth Image**|
-|![Third Image]()|![Fourth Image]()|
-
+- **Michael C. Fontaine** <br> (PI - CNRS researcher and Associate Prof. at GELIFES)
+- **Loic Talignani** <br> (Bioinformatician)
+- **Titouan Le Perrin** (M2 GAIA, Univ. Montpellier, co-supervised with AS Fiston Lavier @ISEM)
+  
 ## Alumnii
 ### Former PhD students
 - Margaux Lebfevre (now postdoc at the Marx Planck Institute for Evolutionary Anthropology, Leipzig, Germany)
