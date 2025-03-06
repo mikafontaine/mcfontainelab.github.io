@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## *In press & Preprints*
-
+## *Preprints & forthcomings*
+--
 94\. Chenal, C., Marco, C., Sabot, F., Clarkson, C. S., Miles, A., Simard, F., Costantini, C., Fiston-Lavier, A.-S., & **Fontaine, M. C.**  **_Pangenomic variations and differentiation between the two African malaria vector sister species Anopheles gambiae and Anopheles coluzzii._** bioRrXiv. 
 
 93\.Carrasco-Valenzuela, T., Marino, A., Storer, J., Bonnici, I., Mazzoni, C. J., **Fontaine, M. C.**, Haudry, A., Boulesteix, M., & Fiston-Lavier, A.-S. **_Manual versus automatic annotation of transposable elements: case studies in Drosophila melanogaster and Aedes albopictus, balancing accuracy and biological relevance._** biorXiv. doi:[10.1101/2025.01.10.632341](https://doi.org/10.1101/2025.01.10.632341)
@@ -18,30 +18,31 @@ author_profile: true
 90\. Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** biorXiv. (†co-last authors). doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472).
 
 ## *2025*
+--
 89\. Foote, A.D., Louis, M., Alexander, A., Carroll, E.L., and **Fontaine, M.C.** (2025). **_Genomic insights into demographic and evolutionary histories._** In The Evolution of Cetacean Societies, A.D. Foote, D. Croft, E. Garland, and S. King, eds. (Chicago Press). In press.
 
-88\. Corley, M., Cosme, L., Armbruster, P., Sharakhova, M., Torre, A.d., Caputo, B., Pichler, V., Bega, A., Urbanelli, S., Martins, A., et al. (2024). **_Population structure of the invasive Asian tiger mosquito, Aedes albopictus, in Europe._** Ecology and Evolution, In press. Authorea preprints [10.22541/au.172683590.01925550/v1](https://www.authorea.com/doi/full/10.22541/au.172683590.01925550/v1).
+88\. Corley, M., Cosme, L., Armbruster, P., Sharakhova, M., Torre, A.d., Caputo, B., Pichler, V., Bega, A., Urbanelli, S., Martins, A., et al. (2024). **_Population structure of the invasive Asian tiger mosquito, Aedes albopictus, in Europe._** _Ecology and Evolution_, In press. Authorea preprints [10.22541/au.172683590.01925550/v1](https://www.authorea.com/doi/full/10.22541/au.172683590.01925550/v1).
 
-87\. Lefebvre, M.J.M., Degrugillier, F., Arnathau, C., Fontecha, G.A., Noya, O., Houze, S., Severini, C., Pradines, B., Berry, A., Trape, J.F., Sàenz, F.E., Prugnolle, F.†, **Fontaine, M.C.†**, Rougeron, V.† (2025). **_Genomic exploration of the complex journey of Plasmodium vivax in Latin America._**. † Co-last authors. PLoS Pathogens 21(1), e1012811. doi:[https://doi.org/10.1371/journal.ppat.1012811](https://doi.org/10.1371/journal.ppat.1012811)
+87\. Lefebvre, M.J.M., Degrugillier, F., Arnathau, C., Fontecha, G.A., Noya, O., Houze, S., Severini, C., Pradines, B., Berry, A., Trape, J.F., Sàenz, F.E., Prugnolle, F.†, **Fontaine, M.C.†**, Rougeron, V.† (2025). **_Genomic exploration of the complex journey of Plasmodium vivax in Latin America._**. († Co-last authors). _PLoS Pathogens_ 21(1), e1012811. doi:[https://doi.org/10.1371/journal.ppat.1012811](https://doi.org/10.1371/journal.ppat.1012811)
 
 
 ## *2024*
-86\. Pierce, G.J., Petitguyot, M.A.C., Gutierrez-Muñoz, P., Fariñas-Bermejo, A., Fernández-Fernández, D., Dolman, S., **Fontaine, M.C.**, Hernández-González, A., Gil, A., Read, F.L., et al. (2024). **_An endangered population of harbour porpoise Phocoena phocoena hidden in plain sight: biology, ecology and conservation of the Iberian porpoise._** Oceanography and Marine Biology - An Annual Review. doi: 10.1201/9781003477518‐1 [Open Access link](https://library.oapen.org/handle/20.500.12657/93175).
+86\. Pierce, G.J., Petitguyot, M.A.C., Gutierrez-Muñoz, P., Fariñas-Bermejo, A., Fernández-Fernández, D., Dolman, S., **Fontaine, M.C.**, Hernández-González, A., Gil, A., Read, F.L., et al. (2024). **_An endangered population of harbour porpoise Phocoena phocoena hidden in plain sight: biology, ecology and conservation of the Iberian porpoise._** _Oceanography and Marine Biology - An Annual Review_. doi: 10.1201/9781003477518‐1 [Open Access link](https://library.oapen.org/handle/20.500.12657/93175).
 
-85\. Amaya Romero, J.E., Chenal, C., Ben Chehida, Y., Miles, A., Clarkson, C.S., Pedergnana, V., Wertheim, B., and **Fontaine, M.C.** (2024). **_Mitochondrial Variation in Anopheles gambiae and Anopheles coluzzii: Phylogeographic Legacy and Mitonuclear Associations With Metabolic Resistance to Pathogens and Insecticides._** Genome Biol Evol 16. evae172. doi:[10.1093/gbe/evae172](https://doi.org/10.1093/gbe/evae172).
+85\. Amaya Romero, J.E., Chenal, C., Ben Chehida, Y., Miles, A., Clarkson, C.S., Pedergnana, V., Wertheim, B., and **Fontaine, M.C.** (2024). **_Mitochondrial Variation in Anopheles gambiae and Anopheles coluzzii: Phylogeographic Legacy and Mitonuclear Associations With Metabolic Resistance to Pathogens and Insecticides._** _Genome Biology & Evolution_ 16. evae172. doi:[10.1093/gbe/evae172](https://doi.org/10.1093/gbe/evae172).
 
-84\. Cosme, L.V., Corley, M., Johnson, T., Severson, D.W., Yan, G., Wang, X., Beebe, N., Maynard, A., Bonizzoni, M., Khorramnejad, A., et al. (2024). **_A genotyping array for the globally invasive vector mosquito, Aedes albopictus._** Parasites & Vectors 17, 106. doi:[10.1186/s13071-024-06158-z](https://doi.org/10.1186/s13071-024-06158-z).
+84\. Cosme, L.V., Corley, M., Johnson, T., Severson, D.W., Yan, G., Wang, X., Beebe, N., Maynard, A., Bonizzoni, M., Khorramnejad, A., et al. (2024). **_A genotyping array for the globally invasive vector mosquito, Aedes albopictus._** _Parasites & Vectors_ 17, 106. doi:[10.1186/s13071-024-06158-z](https://doi.org/10.1186/s13071-024-06158-z).
 
-83\. Conklin, J.R., Verkuil, Y.I., Lefebvre, M.J.M., Battley, P.F., Bom, R.A., Gill, R.E., Hassell, C.J., ten Horn, J., Ruthrauff, D.R., Tibbitts, T.L., Tomkovich, P.S., Warnock, N., Piersma, T., and **Fontaine, M.C.** (2024). **_Phylogeography of bar-tailed godwits: pre-LGM structure in Beringia and westward colonization of post-glacial Europe._** Molecular Ecology. e17452. doi:[10.1111/mec.17452](https://doi.org/10.1111/mec.17452)
+83\. Conklin, J.R., Verkuil, Y.I., Lefebvre, M.J.M., Battley, P.F., Bom, R.A., Gill, R.E., Hassell, C.J., ten Horn, J., Ruthrauff, D.R., Tibbitts, T.L., Tomkovich, P.S., Warnock, N., Piersma, T., and **Fontaine, M.C.** (2024). **_Phylogeography of bar-tailed godwits: pre-LGM structure in Beringia and westward colonization of post-glacial Europe._** _Molecular Ecology_. e17452. doi:[10.1111/mec.17452](https://doi.org/10.1111/mec.17452)
 
-82\. Crossman, C. A., **Fontaine, M.C.†**, & Frasier, T. R.† (2024). **_A comparison of genomic diversity and demographic history of the North Atlantic and Southwest Atlantic southern right whales._** Mol Ecol, In press. https://doi.org/10.1111/mec.17099  (†Co-last author)
+82\. Crossman, C. A., **Fontaine, M.C.†**, & Frasier, T. R.† (2024). **_A comparison of genomic diversity and demographic history of the North Atlantic and Southwest Atlantic southern right whales._** _Moleculat Ecology_, 33(20), e17099, doi:[10.1111/mec.17099](https://doi.org/10.1111/mec.17099)  (†Co-last author)
 
 
 ## *2023*
 
-81\. Ben Chehida, Y., Stelwagen, T., Hoekendijk, J.P.A., Ferreira, M., Eira, C., Pereira, A.T., Nicolau, L., Thumloup, J., and **Fontaine, M.C.** (2023). **_Harbor porpoise losing its edges: genetic time series suggests a rapid population decline in Iberian waters over the last 30 years._** Ecology and Evolution 13, e10819. https://doi.org/10.1002/ece3.10819.
+81\. Ben Chehida, Y., Stelwagen, T., Hoekendijk, J.P.A., Ferreira, M., Eira, C., Pereira, A.T., Nicolau, L., Thumloup, J., and **Fontaine, M.C.** (2023). **_Harbor porpoise losing its edges: genetic time series suggests a rapid population decline in Iberian waters over the last 30 years._** Ecology and Evolution 13, e10819. doi:[10.1002/ece3.10819](https://doi.org/10.1002/ece3.10819)
 
-80\. Kyriazis, C.C., Robinson, J.A., Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., **Fontaine, M.C.**, Wayne, R.K., Taylor, B.L., Lohmueller, K.E., and Morin, P.A. (2023). **_Models based on best-available information support a low inbreeding load and potential for recovery in the vaquita._** Heredity 130, 183-187. https://doi.org/10.1038/s41437-023-00608-7 
+80\. Kyriazis, C.C., Robinson, J.A., Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., **Fontaine, M.C.**, Wayne, R.K., Taylor, B.L., Lohmueller, K.E., and Morin, P.A. (2023). **_Models based on best-available information support a low inbreeding load and potential for recovery in the vaquita._** Heredity 130, 183-187. doi:[10.1038/s41437-023-00608-7](https://doi.org/10.1038/s41437-023-00608-7)
 
 79\. Lefebvre, M. J. M., Daron, J., Legrand, E., **Fontaine, M. C.†**, Rougeron, V.†, & Prugnolle, F.† (2023). **_Population genomic evidence of adaptive response during the invasion history of Plasmodium falciparum in the Americas._** Molecular Biology and Evolution. 40, msad082. https://doi.org/https://doi.org/10.1093/molbev/msad082 (†Co-last author)
 
