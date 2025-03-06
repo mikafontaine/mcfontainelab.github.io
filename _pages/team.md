@@ -8,8 +8,8 @@ author_profile: true
 ## Current members
   
 - **Michael C. Fontaine** <br> (PI - CNRS researcher and Associate Prof. at GELIFES)
-- **Loic Talignani** <br> (Bioinformatician)
-- **Titouan Le Perrin** (M2 GAIA, Univ. Montpellier, co-supervised with AS Fiston Lavier @ISEM)
+- **Loic Talignani** <br> (Bioinforma_g_ician)
+- **Titouan Le Perrin** <br> (M2 GAIA, Univ. Montpellier, co-supervised with AS Fiston Lavier @ISEM)
   
 ## Alumnii
 ### Former PhD students
