@@ -7,18 +7,21 @@ author_profile: true
 
 ## *Preprints & forthcomings*
 
-[96]\. Chenal, C., Marco, C., Sabot, F., Clarkson, C. S., Miles, A., Simard, F., Costantini, C., Fiston-Lavier, A.-S., & **Fontaine, M. C.**  **_Pangenomic variations and differentiation between the two African malaria vector sister species Anopheles gambiae and Anopheles coluzzii._** bioRrXiv. 
+[97]\. Chenal, C., Marco, C., Sabot, F., Clarkson, C. S., Miles, A., Simard, F., Costantini, C., Fiston-Lavier, A.-S., & **Fontaine, M. C.**  **_Pangenomic variations and differentiation between the two African malaria vector sister species Anopheles gambiae and Anopheles coluzzii._** bioRrXiv. 
 
-[95]\. Carrasco-Valenzuela, T., Marino, A., Storer, J., Bonnici, I., Mazzoni, C. J., **Fontaine, M. C.**, Haudry, A., Boulesteix, M., & Fiston-Lavier, A.-S. **_Manual versus automatic annotation of transposable elements: case studies in Drosophila melanogaster and Aedes albopictus, balancing accuracy and biological relevance._** biorXiv. doi:[10.1101/2025.01.10.632341](https://doi.org/10.1101/2025.01.10.632341)
+[96]\. Carrasco-Valenzuela, T., Marino, A., Storer, J., Bonnici, I., Mazzoni, C. J., **Fontaine, M. C.**, Haudry, A., Boulesteix, M., & Fiston-Lavier, A.-S. **_Manual versus automatic annotation of transposable elements: case studies in Drosophila melanogaster and Aedes albopictus, balancing accuracy and biological relevance._** biorXiv. doi:[10.1101/2025.01.10.632341](https://doi.org/10.1101/2025.01.10.632341)
 
-[94]\. McCann, R. S., Courneya, J.-P., Donnelly, M. J., Laufer, M. K., Mzilahowa, T., Stewart, K., Agossa, F., Tezzo, F. W. s., Miles, A., Takala-Harrison, S., O’Connor, T. D., & The Ag1000G Consortium. **_Variation in spatial population structure in the Anopheles gambiae species complex._** bioRrXiv. [https://doi.org/10.1101/2024.05.26.595955](https://doi.org/10.1101/2024.05.26.595955) 
+[95]\. McCann, R. S., Courneya, J.-P., Donnelly, M. J., Laufer, M. K., Mzilahowa, T., Stewart, K., Agossa, F., Tezzo, F. W. s., Miles, A., Takala-Harrison, S., O’Connor, T. D., & The Ag1000G Consortium. **_Variation in spatial population structure in the Anopheles gambiae species complex._** bioRrXiv. [https://doi.org/10.1101/2024.05.26.595955](https://doi.org/10.1101/2024.05.26.595955) 
 
-[93]\. Lefebvre, M. J. M., Degrugillier, F., Arnathau, C., González, C., Rondón, S., Chaves, A., Benavides, J., Scarpellini Campos, A., dos Santos, E., Huff, R., Dornelles da Silva, C. M., Vanderhoeven, E., De Thoisy, B., **Fontaine, M. C.†**, Prugnolle, F.†, & Rougeron, V.† **_Genomic insights into Plasmodium vivax and Plasmodium simium host shifts in Latin America._** (†co-last authors) bioRrXiv. doi: [10.1101/2024.12.19.629455](https://doi.org/10.1101/2024.12.19.629455).
+[94]\. Lefebvre, M. J. M., Degrugillier, F., Arnathau, C., González, C., Rondón, S., Chaves, A., Benavides, J., Scarpellini Campos, A., dos Santos, E., Huff, R., Dornelles da Silva, C. M., Vanderhoeven, E., De Thoisy, B., **Fontaine, M. C.†**, Prugnolle, F.†, & Rougeron, V.† **_Genomic insights into Plasmodium vivax and Plasmodium simium host shifts in Latin America._** (†co-last authors) bioRrXiv. doi: [10.1101/2024.12.19.629455](https://doi.org/10.1101/2024.12.19.629455).
 
-[92]\. Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** biorXiv. (†co-last authors). doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472).
+[93]\. Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** biorXiv. (†co-last authors). doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472).
+
+[92]\. Brinker, P., Falcao Salles, J.†, Beukeboom, L. W.†, & **Fontaine, M. C.†** (2025). Wolbachia: The architect of microbial assemblies in response to environmental changes. bioRrXiv. . (†co-last authors). doi:TBA
+
 
 ## *2025*
-[91]\. Foote, A.D., Louis, M., Alexander, A., Carroll, E.L., and **Fontaine, M.C.** (2025). **_Genomic insights into demographic and evolutionary histories._** In The Evolution of Cetacean Societies, A.D. Foote, D. Croft, E. Garland, and S. King, eds. (Chicago Press). In press.
+[91]\. Foote, A.D., Louis, M., Alexander, A., Carroll, E.L., and **Fontaine, M.C.** (2025). **_Genomic insights into demographic and evolutionary histories._** In The Evolution of Cetacean Societies, A.D. Foote, D. Croft, E. Garland, and S. King, eds. (Chicago Press). In press. [More information here](https://press.uchicago.edu/ucp/books/book/chicago/E/bo257312594.html)
 
 [90]\. Corley, M., Cosme, L., Armbruster, P., Sharakhova, M., Torre, A.d., Caputo, B., Pichler, V., Bega, A., Urbanelli, S., Martins, A., et al. (2025). **_Population structure of the invasive Asian tiger mosquito, Aedes albopictus, in Europe._** _Ecology and Evolution_, In press. Authorea preprints [10.22541/au.172683590.01925550/v1](https://www.authorea.com/doi/full/10.22541/au.172683590.01925550/v1).
 
