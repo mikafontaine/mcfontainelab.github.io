@@ -15,8 +15,8 @@ author_profile: true
   
 ## Alumnii
 ### Former PhD students
-- Margaux Lebfevre (now postdoc at the Marx Planck Institute for Evolutionary Anthropology, Leipzig, Germany)
-- Clothilde Chenal (now postdoc at the Wellcome Trust Sanger Institute, Hinxton, UK)  
+- [Margaux Lebfevre](https://www.eva.mpg.de/archaeogenetics/index/) (now postdoc at the Marx Planck Institute for Evolutionary Anthropology, Leipzig, Germany)
+- [Clothilde Chenal](https://www.sanger.ac.uk/person/chenal-clothilde/) (now postdoc at the Wellcome Trust Sanger Institute, Hinxton, UK)  
 - [Jorge E Amaya-Romero](https://www.hsph.harvard.edu/profile/jorge-amaya-romero/) (now postdoc at Harvard U., USA)  
 - [Yacine Ben Chehida](https://nadeau-lab.sites.sheffield.ac.uk/people) (now postdoc at U Sheffield & U York, UK)
 - [Pina Brinker](https://www.zoologie.uni-halle.de/allgemeine_zoologie/staff/p_brinker/) (now postdoc at the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig)
