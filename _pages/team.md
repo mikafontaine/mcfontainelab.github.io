@@ -9,7 +9,7 @@ author_profile: true
   
 - **Michael C. Fontaine** <br> (PI - CNRS researcher and Associate Prof. at GELIFES)
 - **Loic Talignani** <br> (Bioinformatician)
-- **Titouan Le Perrin** <br> (M2 GAIA, Univ. Montpellier, co-supervised with AS Fiston Lavier @ISEM)
+- **Pitaya Suebtam** <br> (MSc IDIL Eco-epidemiology, U. Montpellier).
 
 - **_YOU?_** Do not hesitate to contact me if you are interested in joining the lab.
   
@@ -25,6 +25,7 @@ author_profile: true
 
 
 ### Former Postdoc & visiting Scholars
+- Tiphaine Bacot (2-month visit aspart of her PhD at LECA-U. Genoble with JP David)
 - [Josquin Daron](https://research.pasteur.fr/fr/member/josquin-daron/) (join with D Ayala): now postdoc at Institut Pasteur Paris, FR
 - [Marie Louis](https://natur.gl/employees/marie-louis/?lang=en) (join with O Gaggiotti & AE Foote): now Research Scientist at the Greenland Institute of Natural Resources
 - Carla Crossman (joint with T Frasier): now postdoc at Dahlousi U. CA
@@ -34,6 +35,7 @@ author_profile: true
 - Jesse Conklin (joint with T Piersma): now Guest researcher at GELIFES - U. Groningen
 
 ### Former MSc and BSc students
+- Titouan Le Perrin (2025 M2 GAIA, Univ. Montpellier, with AS Fiston Lavier @ISEM)
 - Gabriela Blackwood (2024)
 - Adeyemi Akinade (2023/24)
 - Paulina G. Nunez (2022, now PhD at the Centre for Genomic Resources U. Barcelona)
