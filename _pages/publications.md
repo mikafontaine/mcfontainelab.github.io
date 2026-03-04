@@ -10,7 +10,9 @@ author_profile: true
 
 [97]\. Chenal, C., Marco, C., Sabot, F., Clarkson, C. S., Miles, A., Simard, F., Costantini, C., Fiston-Lavier, A.-S., & **Fontaine, M. C.**  **_Pangenomic variations and differentiation between the two African malaria vector sister species Anopheles gambiae and Anopheles coluzzii._** bioRrXiv doi: TBA
 
-[96]\. Dennis TPW, Sulieman JE, Abdin M, Ashine T, Asmamaw Y, Eyasu A, Simma EA, Zemene E, Negash N, Kochora A, Assefa M, Elzack HS, Dagne A, Lukas B, Bulto MG, **Fontaine MC**, Talignani L, Enayati A, Nikpoor F, Al-Nazawi AM, Al-Zahrani MH, Khaireh BA, Kayed S, Abdi AA, Allan R, Omondi S, Abong'o B, Milanoi S, Ochomo E, Ahmed A, Samake JN, Gimnig JE, Rafferty C, Ashraf F, Pignatelli P, Morris M, Nagi SC, Lucas ER, Hernandez-Koutoucheva A, Clarkson CS, Doumbe-Belisse P, Epstein A, Brown R, Wilson AL, Reynolds AM, Sherrard-Smith E, Yewhalaw D, Gadisa E, Malik E, Kafy HT, Donnelly MJ, Weetman D. 2025. The origin, invasion history and resistance architecture of Anopheles stephensi in Africa. bioRxiv doi:10.1101/2025.03.24.644828.
+## *2026*
+
+[96]\. Dennis TPW, Sulieman JE, Abdin M, Ashine T, Asmamaw Y, Eyasu A, Simma EA, Zemene E, Negash N, Kochora A, Assefa M, Elzack HS, Dagne A, Lukas B, Bulto MG, **Fontaine MC**, Talignani L, Enayati A, Nikpoor F, Al-Nazawi AM, Al-Zahrani MH, Khaireh BA, Kayed S, Abdi AA, Allan R, Omondi S, Abong'o B, Milanoi S, Ochomo E, Ahmed A, Samake JN, Gimnig JE, Rafferty C, Ashraf F, Pignatelli P, Morris M, Nagi SC, Lucas ER, Hernandez-Koutoucheva A, Clarkson CS, Doumbe-Belisse P, Epstein A, Brown R, Wilson AL, Reynolds AM, Sherrard-Smith E, Yewhalaw D, Gadisa E, Malik E, Kafy HT, Donnelly MJ, Weetman D. **_The origin, invasion history and resistance architecture of Anopheles stephensi in Africa_**. bioRxiv doi:10.1101/2025.03.24.644828.
 
 [95]\. McCann, R. S., Courneya, J.-P., Donnelly, M. J., Laufer, M. K., Mzilahowa, T., Stewart, K., Agossa, F., Tezzo, F. W. s., Miles, A., Takala-Harrison, S., O’Connor, T. D., & The Ag1000G Consortium. **_Variation in spatial population structure in the Anopheles gambiae species complex._** bioRrXiv. [https://doi.org/10.1101/2024.05.26.595955](https://doi.org/10.1101/2024.05.26.595955) 
 
@@ -18,9 +20,9 @@ author_profile: true
 
 [94]\. Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** biorXiv. (†co-last authors). doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472).
 
-[93]\. Bacot T, Bonneville J-M, Lacroix V, Oberbach P, Gaude T, Nadalin L, Laporte F, Habchi-Hanriot N, Dupuy G, Czeher C, **Fontaine MC**, Boyer F, David J-P. 2026. Metabolic resistance of the tiger mosquito to pyrethroid insecticides in La Réunion Island likely results from local adaptation. _Genome Biology and Evolution_: _In Press_, doi"[https://doi.org/10.1101/2025.08.06.66884](https://doi.org/10.1101/2025.08.06.66884).
+[93]\. Bacot T, Bonneville J-M, Lacroix V, Oberbach P, Gaude T, Nadalin L, Laporte F, Habchi-Hanriot N, Dupuy G, Czeher C, **Fontaine MC**, Boyer F, David J-P. 2026. **_Metabolic resistance of the tiger mosquito to pyrethroid insecticides in La Réunion Island likely results from local adaptation_**. _Genome Biology and Evolution_: _In Press_, doi"[https://doi.org/10.1101/2025.08.06.66884](https://doi.org/10.1101/2025.08.06.66884).
 
-[92]\. Brinker, P., Falcao Salles, J., Beukeboom, L. W., & **Fontaine, M. C.** (2025). Wolbachia: The architect of microbial assemblies in response to environmental changes. _Environmental microbiology_: In press. BiorXiv preprint doi:[2025.07.03.663013][https://doi.org/2025.07.03.663013].
+[92]\. Brinker, P., Falcao Salles, J., Beukeboom, L. W., & **Fontaine, M. C.** (2025). **_Wolbachia: The architect of microbial assemblies in response to environmental changes_**. _Environmental microbiology_: In press. BiorXiv preprint doi:[2025.07.03.663013][https://doi.org/2025.07.03.663013].
 
 [92]\. Foote, A.D., Louis, M., Alexander, A., Carroll, E.L., and **Fontaine, M.C.** (2026). **_Genomic insights into demographic and evolutionary histories._** In The Evolution of Cetacean Societies, A.D. Foote, D. Croft, E. Garland, and S. King, eds. (Chicago Press). [More information here](https://press.uchicago.edu/ucp/books/book/chicago/E/bo257312594.html)
 
