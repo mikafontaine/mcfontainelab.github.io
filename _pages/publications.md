@@ -6,16 +6,15 @@ author_profile: true
 ---
 
 ## *Preprints & forthcomings*
-
 [100]\. Chenal, C., Marco, C., Sabot, F., Clarkson, C. S., Miles, A., Simard, F., Costantini, C., Fiston-Lavier, A.-S., & **Fontaine, M. C.**  **_Pangenomic variations and differentiation between the two African malaria vector sister species Anopheles gambiae and Anopheles coluzzii._** bioRrXiv doi: TBA
 
 [99]\.Lefebvre MJM, Arnathau C, Houzé S, De Thoisy B, Gonzàlez C, Rondòn S, Pain A, **Fontaine MC†**, Prugnolle F†, & Rougeron V† 2026. Identification of two genomic cryptotypes of *P. malariae* in Africa. (†co-last authors). bioRrXiv doi:TBA
 
-## *2026*
 [98]\. Dennis TPW, Sulieman JE, Abdin M, Ashine T, Asmamaw Y, Eyasu A, Simma EA, Zemene E, Negash N, Kochora A, Assefa M, Elzack HS, Dagne A, Lukas B, Bulto MG, **Fontaine MC**, Talignani L, Enayati A, Nikpoor F, Al-Nazawi AM, Al-Zahrani MH, Khaireh BA, Kayed S, Abdi AA, Allan R, Omondi S, Abong'o B, Milanoi S, Ochomo E, Ahmed A, Samake JN, Gimnig JE, Rafferty C, Ashraf F, Pignatelli P, Morris M, Nagi SC, Lucas ER, Hernandez-Koutoucheva A, Clarkson CS, Doumbe-Belisse P, Epstein A, Brown R, Wilson AL, Reynolds AM, Sherrard-Smith E, Yewhalaw D, Gadisa E, Malik E, Kafy HT, Donnelly MJ, Weetman D. **_The origin, invasion history and resistance architecture of Anopheles stephensi in Africa_**. bioRxiv doi:[10.1101/2025.03.24.644828](https://doi.org/10.1101/2025.03.24.644828).
 
 [97]\. McCann, R. S., Courneya, J.-P., Donnelly, M. J., Laufer, M. K., Mzilahowa, T., Stewart, K., Agossa, F., Tezzo, F. W. s., Miles, A., Takala-Harrison, S., O’Connor, T. D., & The Ag1000G Consortium. **_Variation in spatial population structure in the Anopheles gambiae species complex._** bioRrXiv. [https://doi.org/10.1101/2024.05.26.595955](https://doi.org/10.1101/2024.05.26.595955) 
 
+## *2026*
 [96]\. Daron, J., Bouafou, L., Tennessen, J., Rahola, N., Talignani, L., Makanga, B., Ousman, A.-E., Ngangue, M.F., Longo Pendy, N.M., Paupy, C., Neafsey, D.E., **Fontaine, M.C.†**, Ayala, D.† **_Genomic signatures of microgeographic adaptation in Anopheles coluzzii along an anthropogenic gradient in Gabon._** . (†co-last authors). _Molecular Ecology: In press_ (bioRrXiv preprint doi: doi:[10.1101/2024.05.16.594472](https://doi.org/10.1101/2024.05.16.594472).
 
 [95]\. Lefebvre, M. J. M., Degrugillier, F., Arnathau, C., González, C., Rondón, S., Chaves, A., Benavides, J., Scarpellini Campos, A., dos Santos, E., Huff, R., Dornelles da Silva, C. M., Vanderhoeven, E., De Thoisy, B., **Fontaine, M. C.†**, Prugnolle, F.†, & Rougeron, V.† **_Genomic insights into Plasmodium vivax and Plasmodium simium host shifts in Latin America._** (†co-last authors) _Evolutionary Applications: In press_ (bioRrXiv preprint doi: [10.1101/2024.12.19.629455](https://doi.org/10.1101/2024.12.19.629455).
