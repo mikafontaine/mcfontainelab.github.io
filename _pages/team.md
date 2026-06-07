@@ -10,12 +10,12 @@ author_profile: true
 - **Michael C. Fontaine** <br> (PI - CNRS researcher and Associate Prof. at GELIFES)
 - **Loic Talignani** <br> (Bioinformatician)
 - **Pitaya Suebtam** <br> (MSc IDIL Eco-epidemiology, U. Montpellier).
-
+- 
 - **_YOU?_** Do not hesitate to contact me if you are interested in joining the lab.
   
 ## Alumnii
 ### Former PhD students
-- [Margaux Lebfevre](https://www.eva.mpg.de/archaeogenetics/index/) (now postdoc at the Marx Planck Institute for Evolutionary Anthropology, Leipzig, Germany)
+- [Margaux Lefebvre](https://www.eva.mpg.de/archaeogenetics/index/) (now postdoc at the MaxPlanck Institute for Evolutionary Anthropology, Leipzig, Germany)
 - [Clothilde Chenal](https://www.sanger.ac.uk/person/chenal-clothilde/) (now postdoc at the Wellcome Trust Sanger Institute, Hinxton, UK)  
 - [Jorge E Amaya-Romero](https://www.hsph.harvard.edu/profile/jorge-amaya-romero/) (now postdoc at Harvard U., USA)  
 - [Yacine Ben Chehida](https://nadeau-lab.sites.sheffield.ac.uk/people) (now postdoc at U Sheffield & U York, UK)
